@@ -1,0 +1,32 @@
+{
+  "name": "kyaraaiweb",
+  "private": true,
+  "scripts": {
+    "build": "gridsome build",
+    "develop": "gridsome develop",
+    "explore": "gridsome explore"
+  },
+  "dependencies": {
+    "@gridsome/source-filesystem": "^0.6.2",
+    "@gridsome/transformer-remark": "^0.6.4",
+    "@typescript-eslint/eslint-plugin": "^4.8.1",
+    "@typescript-eslint/parser": "^4.8.1",
+    "eslint": "^7.14.0",
+    "eslint-config-prettier": "^6.15.0",
+    "eslint-plugin-gridsome": "^1.5.0",
+    "eslint-plugin-prettier": "^3.1.4",
+    "eslint-plugin-vue": "^7.1.0",
+    "gridsome": "^0.7.0",
+    "gridsome-plugin-typescript": "^0.4.0",
+    "prettier": "^2.2.0",
+    "ts-loader": "^8.0.11",
+    "typescript": "^4.1.2",
+    "vue-class-component": "^7.2.6",
+    "vue-masonry": "0.10.5",
+    "vue-property-decorator": "^9.1.2"
+  },
+  "devDependencies": {
+    "node-sass": "4.14.1",
+    "sass-loader": "7.3.1"
+  }
+}
