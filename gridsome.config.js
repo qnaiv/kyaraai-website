@@ -6,6 +6,7 @@
 
 module.exports = {
   siteName: `Gridsome`,
+  pathPrefix: `/kyaraai-website`,
   plugins: [
     {
       use: `gridsome-plugin-typescript`,
