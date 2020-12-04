@@ -17,7 +17,7 @@ module.exports = {
         baseDir: './src/assets/content',
         path: 'about/**/*.md',
         resolveAbsolutePaths: true,
-      }
+      },
     },
     {
       use: '@gridsome/source-filesystem',
@@ -26,11 +26,20 @@ module.exports = {
         baseDir: './src/assets/content',
         path: 'artwork/**/*.md',
         resolveAbsolutePaths: true,
-      }
+      },
+    },
+    {
+      use: '@gridsome/source-filesystem',
+      options: {
+        typeName: 'News',
+        baseDir: './src/assets/content',
+        path: 'news/**/*.md',
+        resolveAbsolutePaths: true,
+      },
     },
   ],
   templates: {
-    Artwork: '/artwork/:id'
-  }
-
-};
+    Artwork: '/artwork/:id',
+    News: '/news/:id',
+  },
+}

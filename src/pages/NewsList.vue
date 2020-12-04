@@ -1,0 +1,98 @@
+<template>
+  <Layout v-if="isLoaded()">
+    <h2 class="header">News</h2>
+    <ClientOnly>
+      <div v-masonry transition-duration="0.3s" item-selector=".item">
+        <div v-for="n in $page.allNews.edges" :key="n.node.id" v-masonry-tile class="item">
+          <g-link :to="'/news/' + n.node.id">
+            <g-image class="news-thumbnail" :src="n.node.thumbnail"></g-image>
+            <div class="card-content">
+              <p class="title">&nbsp;{{ n.node.title }}</p>
+              <p class="title">&nbsp;{{ n.node.subtitle }}</p>
+              <Tags :tags="getTagInfoList(n.node.tags)"></Tags>
+            </div>
+          </g-link>
+        </div>
+      </div>
+    </ClientOnly>
+  </Layout>
+</template>
+<script lang="ts">
+import { Vue, Component, Prop, Watch, Emit, Ref } from 'vue-property-decorator'
+import Tags, { TagInfo } from '../components/Tags.vue'
+
+@Component({
+  components: {
+    Tags,
+  },
+})
+export default class News extends Vue {
+  $page: any
+  isLoaded(): boolean {
+    return this.$page.allNews
+  }
+  getTagInfoList(tags: Array<string>) {
+    const tagInfoList: Array<TagInfo> = []
+    tags.forEach((t) => {
+      let colorCode = 'gray'
+      if (t === '告知') colorCode = '#e9a5b8'
+      if (t === '記録') colorCode = '#8aaec7'
+      tagInfoList.push({ tagName: t, colorCode: colorCode })
+    })
+    return tagInfoList
+  }
+}
+</script>
+<page-query>
+query {
+  allNews: allNews(sortBy: "date") {
+    edges {
+      node {
+        id
+        date(format: "YYYY")
+        title
+        subtitle
+        tags
+        thumbnail(quality: 90)
+      }
+    }
+  }
+}
+</page-query>
+<style lang="scss" scoped>
+a:link,
+a:visited,
+a:hover,
+a:active {
+  color: #636363 !important;
+  font-size: 0.8em;
+  font-weight: 600;
+}
+.header {
+  margin: 0;
+}
+
+.item {
+  width: 300px;
+  margin: 20px 10px;
+  padding: 0px;
+  border: 1px solid #e8e7e7;
+  box-shadow: 0 2px 10px 0 rgba(0, 0, 0, 0.1);
+  transition: 0.3s;
+  .card-content {
+    padding: 2px 10px 10px 10px;
+  }
+  .title {
+    margin: 0px 0px;
+  }
+  .tags {
+    margin: 0px 0px;
+  }
+  .news-thumbnail {
+    margin: 0px;
+    width: 300px;
+    height: 150px;
+    object-fit: cover;
+  }
+}
+</style>

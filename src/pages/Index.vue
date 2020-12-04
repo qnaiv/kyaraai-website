@@ -1,63 +1,35 @@
 <template>
   <Layout>
-
-    <!-- Learn how to use images here: https://gridsome.org/docs/images -->
-    <g-image alt="Example image" src="~/favicon.png" width="135" />
-
-    <h1>Hello, world!</h1>
-
-    <p>
-      Lorem ipsum dolor sit amet, consectetur adipisicing elit. Pariatur excepturi labore tempore expedita, et iste tenetur suscipit explicabo! Dolores, aperiam non officia eos quod asperiores
-    </p>
-
-    <p class="home-links">
-      <a href="https://gridsome.org/docs/" target="_blank" rel="noopener">Gridsome Docs</a>
-      <a href="https://github.com/gridsome/gridsome" target="_blank" rel="noopener">GitHub</a>
-    </p>
-    <ClientOnly>
-        <div v-masonry="containerId" transition-duration="0.3s" item-selector=".item">
-          <div v-masonry-tile class="item" v-for="artwork in $page.artworks.edges" :key="artwork.id">
-            <g-link :to="'/artwork/'+ artwork.node.id">
-              <g-image class="thumbnail" :src="artwork.node.thumbnail" />
-            </g-link>
-          </div>
-        </div>
-    </ClientOnly>
-
+    <div class="top-page">
+      <RecentNews class="recent-news"></RecentNews>
+      <g-image class="top-image" src="~/assets/top.jpg" />
+    </div>
   </Layout>
 </template>
 
 <script lang="ts">
-import { Vue, Component, Prop, Watch, Emit, Ref } from "vue-property-decorator";
+import { Vue, Component, Prop, Watch, Emit, Ref } from 'vue-property-decorator'
+import RecentNews from '../components/RecentNews.vue'
 
-@Component
-export default class component_name extends Vue {
-  
-}
+@Component({
+  components: {
+    RecentNews,
+  },
+})
+export default class Index extends Vue {}
 </script>
 
-<page-query>
-query{
-  artworks: allArtwork(sortBy: "date"){
-    edges{
-      node{
-        id,
-        thumbnail (quality: 10),
-        date
-      }
-    }
-  }
-}
-</page-query>
-
 <style lang="scss" scoped>
-.home-links a {
-  margin-right: 1rem;
+.top-page {
+  width: 100%;
+  // padding: 10px 0 0 0px;
 }
-.thumbnail{
-  width: 200px;
-  height: 200px;
+.top-image {
+  width: 100%;
+  height: 500px;
   object-fit: cover;
-  
+}
+.recent-news {
+  margin-bottom: 30px;
 }
 </style>
