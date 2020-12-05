@@ -14,6 +14,8 @@ sections:
   label: News
   create: documents
   match: "**/*"
+  templates:
+  - news
 - type: directory
   path: src/assets/content/artwork
   label: Artwork
