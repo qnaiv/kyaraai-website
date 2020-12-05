@@ -1,4 +1,13 @@
 ---
 label: Profile
 hide_body: false
-fields: []
+fields:
+- name: update_date
+  type: datetime
+  label: update date
+  description: ''
+  config:
+    required: false
+    date_format: YYYY-MM-DD
+    time_format: 
+    display_utc: false
