@@ -6,13 +6,13 @@ webhook_url:
 sections:
 - type: directory
   path: " src/assets/content/about"
-  label: Profile
-  create: all
+  label: About
+  create: documents
   match: "**/*"
 - type: directory
   path: src/assets/content/news
   label: News
-  create: all
+  create: documents
   match: "**/*"
 - type: directory
   path: src/assets/content/artwork
