@@ -11,3 +11,5 @@ fields:
     date_format: YYYY-MM-DD
     time_format: 
     display_utc: false
+pages:
+- " src/assets/content/about/profile.md"
