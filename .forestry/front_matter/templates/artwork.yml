@@ -27,9 +27,13 @@ fields:
   label: tags
 pages:
 - src/assets/content/artwork/かわいいあのこ.md
+- src/assets/content/artwork/ちょっと宇宙まで.md
 - src/assets/content/artwork/めばえガールズ.md
+- src/assets/content/artwork/アルミホイルにつつまれて.md
+- src/assets/content/artwork/ベタつきは誰のせい.md
 - src/assets/content/artwork/リーダーってこういうもの.md
 - src/assets/content/artwork/愛を求める彼女たち.md
 - src/assets/content/artwork/流しセーラー服.md
 - src/assets/content/artwork/異常気象.md
 - src/assets/content/artwork/発見集.md
+- src/assets/content/artwork/純な.md
