@@ -11,6 +11,8 @@
     "@gridsome/transformer-remark": "^0.6.4",
     "@typescript-eslint/eslint-plugin": "^4.8.1",
     "@typescript-eslint/parser": "^4.8.1",
+    "bulma": "^0.9.1",
+    "bulma-helpers": "^0.3.12",
     "eslint": "^7.14.0",
     "eslint-config-prettier": "^6.15.0",
     "eslint-plugin-gridsome": "^1.5.0",
@@ -21,6 +23,7 @@
     "prettier": "^2.2.0",
     "ts-loader": "^8.0.11",
     "typescript": "^4.1.2",
+    "vue-burger-menu": "^2.0.5",
     "vue-class-component": "^7.2.6",
     "vue-masonry": "0.10.5",
     "vue-property-decorator": "^9.1.2"

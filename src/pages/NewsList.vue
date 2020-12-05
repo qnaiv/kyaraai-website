@@ -1,14 +1,14 @@
 <template>
   <Layout v-if="isLoaded()">
-    <h2 class="header">News</h2>
+    <h2 class="title mb-2">News</h2>
     <ClientOnly>
       <div v-masonry transition-duration="0.3s" item-selector=".item">
         <div v-for="n in $page.allNews.edges" :key="n.node.id" v-masonry-tile class="item">
           <g-link :to="'/news/' + n.node.id">
             <g-image class="news-thumbnail" :src="n.node.thumbnail"></g-image>
             <div class="card-content">
-              <p class="title">&nbsp;{{ n.node.title }}</p>
-              <p class="title">&nbsp;{{ n.node.subtitle }}</p>
+              <p class="title is-6">&nbsp;{{ n.node.title }}</p>
+              <p class="subtitle is-6 mb-1">&nbsp;{{ n.node.subtitle }}</p>
               <Tags :tags="getTagInfoList(n.node.tags)"></Tags>
             </div>
           </g-link>
@@ -68,9 +68,6 @@ a:active {
   font-size: 0.8em;
   font-weight: 600;
 }
-.header {
-  margin: 0;
-}
 
 .item {
   width: 300px;
@@ -81,9 +78,6 @@ a:active {
   transition: 0.3s;
   .card-content {
     padding: 2px 10px 10px 10px;
-  }
-  .title {
-    margin: 0px 0px;
   }
   .tags {
     margin: 0px 0px;

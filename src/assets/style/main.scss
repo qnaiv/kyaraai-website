@@ -1,0 +1,32 @@
+@charset "utf-8";
+
+// Font colors
+$grey-dark: #767676;
+$grey-darker: #686868;
+// $text-strong: #767676;
+
+// Link colors
+$link: #67bdcd !default;
+$link-invert: findColorInvert($link) !default;
+$link-light: findLightColor($link) !default;
+$link-dark: findDarkColor($link) !default;
+$link-visited: #67bdcd !default;
+$link-hover: #4e8f9b !default;
+$link-focus: #4e8f9b !default;
+$link-active: #4e8f9b !default;
+
+$navbar-height: 4rem;
+
+body {
+  font-family: -apple-system, system-ui, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  line-height: 1.5;
+  min-height: 100%;
+  color: #767676;
+}
+.icon-link {
+  display: none !important;
+}
+@import '../../../node_modules/bulma/bulma.sass';
+@import '../../../node_modules/bulma-helpers/bulma-helpers.sass';

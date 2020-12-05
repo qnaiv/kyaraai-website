@@ -1,7 +1,9 @@
 <template>
-  <div class="recent-news-container">
-    <h2 class="header">News</h2>
-    <div class="news-list">
+  <div class="columns">
+    <div class="column is-narrow is-12-mobile">
+      <h2 class="title is-4">News</h2>
+    </div>
+    <div class="column">
       <div v-for="news in $static.recentNews.edges" :key="news.node.id" class="news">
         <g-link :to="'/news/' + news.node.id">
           {{ getCategory(news) }} | {{ news.node.title }} {{ news.node.subtitle }}
@@ -39,22 +41,9 @@ query {
 }
 </static-query>
 <style lang="scss" scoped>
-.recent-news-container {
-  display: grid;
-  grid-template-areas: 'header news-list';
-  grid-template-columns: 80px 1fr;
-  .header {
-    grid-area: header;
-    margin: 0px;
-    line-height: 1;
-  }
-  .news-list {
-    grid-area: news-list;
-    .news {
-      font-size: 0.8em;
-      font-weight: 600;
-      margin-bottom: 5px;
-    }
-  }
+.news {
+  font-size: 0.8em;
+  font-weight: 600;
+  margin-bottom: 8px;
 }
 </style>

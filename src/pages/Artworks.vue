@@ -1,6 +1,6 @@
 <template>
   <Layout>
-    <h2>Artworks - {{ getTags() }}</h2>
+    <h2 class="title mb-2">Artworks - {{ getTags() }}</h2>
     <Posts :posts="getFilteredArtworksByTag()" :category="'artwork'"></Posts>
   </Layout>
 </template>
@@ -20,9 +20,16 @@ export default class Artworks extends Vue {
     return this.$route.query.tags
   }
   getFilteredArtworksByTag(): Array<any> {
-    let currentTag = this.$route.query.tags
+    const query = this.$route.query.tags
+    if (query == null) {
+      return []
+    }
+    let currentTag: string | null = query instanceof Array ? query[0] : query
     let artworks: Array<any> = this.$page.artworks.edges
-    return artworks.filter((a: any) => a.node.tags.includes(currentTag))
+    return artworks.filter((a: any) =>
+      a.node.tags.map((t: string) => t.toUpperCase()).includes(currentTag?.toUpperCase())
+    )
+    // return artworks.filter((a: any) => a.node.tags.includes(currentTag))
   }
 }
 </script>

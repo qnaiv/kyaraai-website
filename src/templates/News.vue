@@ -2,7 +2,7 @@
   <Layout v-if="isLoaded()">
     <h2 class="title">{{ $page.news.title }}</h2>
     <h3 class="subtitle">{{ $page.news.subtitle }}</h3>
-    <div v-html="$page.news.content" />
+    <div class="content" v-html="$page.news.content" />
   </Layout>
 </template>
 
@@ -31,11 +31,4 @@ query News($id: ID!) {
 }
 </page-query>
 
-<style lang="scss" scoped>
-.title {
-  margin: 0px;
-}
-.subtitle {
-  margin: 0px;
-}
-</style>
+<style lang="scss" scoped></style>

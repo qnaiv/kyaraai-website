@@ -1,6 +1,6 @@
 <template>
   <Layout>
-    <div v-html="$page.artwork.content" />
+    <div class="content" v-html="$page.artwork.content" />
   </Layout>
 </template>
 
