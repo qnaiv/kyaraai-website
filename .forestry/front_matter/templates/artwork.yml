@@ -27,6 +27,7 @@ fields:
   label: tags
 pages:
 - src/assets/content/artwork/かわいいあのこ.md
+- src/assets/content/artwork/こんなに目があっても.md
 - src/assets/content/artwork/ちょっと宇宙まで.md
 - src/assets/content/artwork/めばえガールズ.md
 - src/assets/content/artwork/アルミホイルにつつまれて.md
