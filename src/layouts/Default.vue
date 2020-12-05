@@ -6,9 +6,11 @@
           <g-image src="~/assets/logo.png" fit="inside" width="200" height="80" />
         </g-link>
       </div>
-      <Slide right no-overlay>
-        <MenuItems />
-      </Slide>
+      <ClientOnly>
+        <Slide right no-overlay>
+          <MenuItems />
+        </Slide>
+      </ClientOnly>
     </nav>
 
     <div class="columns is-gapless">
