@@ -1,4 +1,27 @@
 ---
 label: Artwork
 hide_body: false
-fields: []
+fields:
+- name: title
+  type: text
+  config:
+    required: true
+  label: title
+- name: date
+  type: datetime
+  label: date
+  description: ''
+  config:
+    required: false
+    date_format: YYYY-MM-DD
+    time_format: 
+    display_utc: false
+- name: thumbnail
+  type: file
+  config:
+    maxSize: 64
+  label: thumbnail
+- name: tags
+  type: tag_list
+  default: []
+  label: tags
