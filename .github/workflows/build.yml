@@ -1,8 +1,8 @@
 name: Build & Deploy
 
 on:
-  push:	
-    branches:	
+  push:
+    branches:
       - master
 
 jobs:
@@ -12,7 +12,18 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v1
-
+      - name: Cache node modules
+        uses: actions/cache@v2
+        env:
+          cache-name: cache-node-modules
+        with:
+          # npm キャッシュファイルは Linux/macOS の「~/.npm」に保存される
+          path: ~/.npm
+          key: ${{ runner.os }}-build-${{ env.cache-name }}-${{ hashFiles('**/package-lock.json') }}
+          restore-keys: |
+            ${{ runner.os }}-build-${{ env.cache-name }}-
+            ${{ runner.os }}-build-
+            ${{ runner.os }}-
       - name: Installing packages
         run: npm install
 
