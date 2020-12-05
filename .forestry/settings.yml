@@ -5,6 +5,16 @@ admin_path:
 webhook_url: 
 sections:
 - type: directory
+  path: " src/assets/content/about"
+  label: Profile
+  create: all
+  match: "**/*"
+- type: directory
+  path: src/assets/content/news
+  label: News
+  create: all
+  match: "**/*"
+- type: directory
   path: src/assets/content/artwork
   label: Artwork
   create: documents
