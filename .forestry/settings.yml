@@ -9,6 +9,8 @@ sections:
   label: About
   create: documents
   match: "**/*"
+  templates:
+  - profile
 - type: directory
   path: src/assets/content/news
   label: News
