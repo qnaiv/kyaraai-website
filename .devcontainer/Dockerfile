@@ -14,4 +14,5 @@ FROM mcr.microsoft.com/vscode/devcontainers/typescript-node:0-${VARIANT}
 
 # [Optional] Uncomment if you want to install more global node packages
 # RUN sudo -u node npm install -g <your-package-list -here>
-RUN npm install --global @gridsome/cli
+RUN npm install -g yarn
+RUN yarn add global @gridsome/cli
