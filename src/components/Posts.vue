@@ -24,12 +24,21 @@ export default class Posts extends Vue {
 }
 </script>
 <style lang="scss" scoped>
+@import '../../node_modules/bulma/bulma.sass';
+
 .thumbnail {
-  width: 200px;
-  height: 200px;
+  width: 20vw;
+  height: 20vw;
   object-fit: cover;
   box-shadow: 0 2px 10px 0 rgba(0, 0, 0, 0.1);
 
-  margin: 10px;
+  margin: 1vw;
+}
+
+@media screen and (max-width: $tablet) {
+  .thumbnail {
+    width: 40vw;
+    height: 40vw;
+  }
 }
 </style>
