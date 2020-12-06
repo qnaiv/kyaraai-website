@@ -7,7 +7,7 @@ update_date: 2020-12-07T04:56:15Z
 
 ##### Painter/Illustrator/Art producer
 
-##### –
+##### 
 
 2009 年頃からボーカロイド楽曲にデジタルイラストを提供し、  
 インターネット上で作品の発表を始める。  
@@ -25,7 +25,7 @@ mail:kyaraai.work アット gmail.com
 ▶︎ 展示歴
 
 ▷**2019  
-**1.11\~26 グループ展「[第 1 回大阪アンデパンダン](https://osaka-independants.studio.design/)」gekilin.  
+\**1.11\~26 グループ展「[第 1 回大阪アンデパンダン](https://osaka-independants.studio.design/)」gekilin.  
 1\.25\~2.5 **個展**「[わるだくみ会議](https://t.umblr.com/redirect?z=https%3A%2F%2Fwww.sangatsu.net%2Fposts%2F5537039%2F&t=MThjZTA4NjkwYTQ0NmQ5MGU2YTI3MjZhNTQ2YjA2YjZjODVkOGI3NCxUbU4zdWpESg%3D%3D&p=&m=0)」アトリエ三月（大阪）  
 3\.8\~23/3.29\~4.7 公募グループ展「[えがく、けんだま展](https://ondo-info.net/content/10387/)」ondo（大阪・東京）  
 9\.10\~15 グループ展「[しろのみち](https://www.dohjidai.com/gallery/exhibition/%E3%81%97%E3%82%8D%E3%81%AE%E3%81%BF%E3%81%A1/)」同時代ギャラリー（京都）  
@@ -34,7 +34,7 @@ mail:kyaraai.work アット gmail.com
 12\.3\~8 **個展**「ヒーローのふりをした悪役」River Coffee & Gallery
 
 ▷**2018  
-**2.23\~3.4 **個展**「[煙に巻く](https://www.sangatsu.net/posts/3683026/)」アトリエ三月(大阪)  
+\**2.23\~3.4 **個展**「[煙に巻く](https://www.sangatsu.net/posts/3683026/)」アトリエ三月(大阪)  
 4\.6\~10 グループ展「OHANAMI 展」招待作家 アトリエ三月（大阪）  
 5\.5\~16 グループ展「純粋キャラクター批判」招待作家 SUNABA gallery（大阪）  
 7\.21\~8.19 **個展**「[私は、私の生き方をする。](http://threestar-kyoto.jp/culture-event/%E3%80%90new-gallery%E3%80%91%E3%80%8C%E7%A7%81%E3%81%AF%E3%80%81%E7%A7%81%E3%81%AE%E7%94%9F%E3%81%8D%E6%96%B9%E3%82%92%E3%81%99%E3%82%8B%E3%80%82%E3%80%8D/)」three star kyoto（京都）  
@@ -42,13 +42,13 @@ mail:kyaraai.work アット gmail.com
 12\.19\~28「[アトリエ三月年末展](https://www.sangatsu.net/posts/5299307)」アトリエ三月（大阪）
 
 ▷**2017  
-**8.31\~9.3 グループ展「おまーじゅじゅじゅ！お前と 12 人の SUMMER」ギャラリー 1616(大阪)6.29\~7.9 企画展「[UTOPIA6](https://t.umblr.com/redirect?z=http%3A%2F%2Fwww.gallerycomplex.com%2Fschedule%2FACT175%2Futopia6.html&t=NTBlODY5YTg1MTU3NDZlZjc1YzI0OTA0N2MwYTIzMmRjN2I2ODIyNyxUbU4zdWpESg%3D%3D&p=&m=0)」The Artcomplex Center of Tokyo(東京)5.3\~14 企画展「[POP song が聴こえる。](https://t.umblr.com/redirect?z=http%3A%2F%2Fwww.sangatsu.net%2Fposts%2F3029519%3FcategoryIds%3D838087&t=ODg1MDhhZTZkMzZlYjkwYjkxNjI2NzYxZWZmNjE3NDg5YmYyYmUwOCxUbU4zdWpESg%3D%3D&p=&m=0)」アトリエ三月(大阪)5.2\~7 KAWAII ART PROJECT 企画展「[FROM KAWAII ART-Overtrun The Stereotypes.-](https://t.umblr.com/redirect?z=http%3A%2F%2Fkawaiiartproject.main.jp%2Fkawaii_art_project%2Fexhibition%2Ffrom_kawaii_art_ots%2Ffkaots_exhibitionarchive&t=OThkMTZjNzdmNTNjMGRkNTFkZjlhZDAxOTQ0NGQ0MDllOTEzMGI2MSxUbU4zdWpESg%3D%3D&p=&m=0)」GALLERY FREAK OUT(東京)  
+\**8.31\~9.3 グループ展「おまーじゅじゅじゅ！お前と 12 人の SUMMER」ギャラリー 1616(大阪)6.29\~7.9 企画展「[UTOPIA6](https://t.umblr.com/redirect?z=http%3A%2F%2Fwww.gallerycomplex.com%2Fschedule%2FACT175%2Futopia6.html&t=NTBlODY5YTg1MTU3NDZlZjc1YzI0OTA0N2MwYTIzMmRjN2I2ODIyNyxUbU4zdWpESg%3D%3D&p=&m=0)」The Artcomplex Center of Tokyo(東京)5.3\~14 企画展「[POP song が聴こえる。](https://t.umblr.com/redirect?z=http%3A%2F%2Fwww.sangatsu.net%2Fposts%2F3029519%3FcategoryIds%3D838087&t=ODg1MDhhZTZkMzZlYjkwYjkxNjI2NzYxZWZmNjE3NDg5YmYyYmUwOCxUbU4zdWpESg%3D%3D&p=&m=0)」アトリエ三月(大阪)5.2\~7 KAWAII ART PROJECT 企画展「[FROM KAWAII ART-Overtrun The Stereotypes.-](https://t.umblr.com/redirect?z=http%3A%2F%2Fkawaiiartproject.main.jp%2Fkawaii_art_project%2Fexhibition%2Ffrom_kawaii_art_ots%2Ffkaots_exhibitionarchive&t=OThkMTZjNzdmNTNjMGRkNTFkZjlhZDAxOTQ0NGQ0MDllOTEzMGI2MSxUbU4zdWpESg%3D%3D&p=&m=0)」GALLERY FREAK OUT(東京)  
 4\.13\~16 グループ展「[シナプスの、Q](https://twitter.com/sinapusu_musubi)」ROJI ギャラリー 1616(大阪)
 
 ▷**2016  
-**12.16\~25 公募グループ展「合同年末展」アトリエ三月、アトリエ空白(大阪)11.17\~20 グループ展「[シナプスの掬び](https://twitter.com/sinapusu_musubi)」ギャラリー 1616(大阪)11.1\~6 KAWAII ART PROJECT 企画展「[FROM KAWAII ART](https://t.umblr.com/redirect?z=http%3A%2F%2Fkawaiiartproject.main.jp%2Fnews%2F%25e9%2596%258b%25e5%2582%25ac%25e4%25b8%25ad%25ef%25bc%2581%25e3%2580%258cfrom-kawaii-art%25e3%2580%258d%25e5%25b1%2595&t=MGJjNDZmNGVmNDk4ZGJkMmYwOWM1ZGU5ZDVkYmZiZmJjMmE4OWQ5NixUbU4zdWpESg%3D%3D&p=&m=0)」マジェルカギャラリー(東京)7.2\~13 公募グループ展「[A4 の世界 Ⅱ](https://t.umblr.com/redirect?z=http%3A%2F%2Fwww.kcc.zaq.ne.jp%2Fdfyji500%2Fsunaba%2Fupcoming%2F20160702_fruits%2Ffruits.html&t=MjdlZGE5NmY3OGNhMDY4MGIyNjNiNDgzZTM3ZmQyMjRmOWM5NjVkYyxUbU4zdWpESg%3D%3D&p=&m=0)」SUNABA GALLERY(大阪)6.24\~7.3 グループ展「[199X⁵](https://t.umblr.com/redirect?z=http%3A%2F%2Fwww.gallerycomplex.com%2Fschedule%2FACT165%2F9x5.html&t=NjAyMzc4NzgwOTM3YWQyOTNkNTJiZTAyY2JlZDgyNGRlNzE1OTkwZSxUbU4zdWpESg%3D%3D&p=&m=0)」The Artcomplex Center of Tokyo(東京)  
-2\.23\~28 **個展**「[awai](https://t.umblr.com/redirect?z=http%3A%2F%2Fwww.gallerycomplex.com%2Fschedule%2FACT163%2Fkyaraai.html&t=ZWFmYzc3NjNjOTk1YWUwZGFkODgzOGRlNGIxYmEzNzMyMzYwMzNkNixUbU4zdWpESg%3D%3D&p=&m=0)」The Artcomplex Center of Tokyo(東京)  
-▷**2015**  
+12\.16\~25 公募グループ展「合同年末展」アトリエ三月、アトリエ空白(大阪)11.17\~20 グループ展「**[**シナプスの掬び**](https://twitter.com/sinapusu_musubi)**」ギャラリー 1616(大阪)11.1\~6 KAWAII ART PROJECT 企画展「**[**FROM KAWAII ART**](https://t.umblr.com/redirect?z=http%3A%2F%2Fkawaiiartproject.main.jp%2Fnews%2F%25e9%2596%258b%25e5%2582%25ac%25e4%25b8%25ad%25ef%25bc%2581%25e3%2580%258cfrom-kawaii-art%25e3%2580%258d%25e5%25b1%2595&t=MGJjNDZmNGVmNDk4ZGJkMmYwOWM1ZGU5ZDVkYmZiZmJjMmE4OWQ5NixUbU4zdWpESg%3D%3D&p=&m=0)**」マジェルカギャラリー(東京)7.2\~13 公募グループ展「**[**A4 の世界 Ⅱ**](https://t.umblr.com/redirect?z=http%3A%2F%2Fwww.kcc.zaq.ne.jp%2Fdfyji500%2Fsunaba%2Fupcoming%2F20160702_fruits%2Ffruits.html&t=MjdlZGE5NmY3OGNhMDY4MGIyNjNiNDgzZTM3ZmQyMjRmOWM5NjVkYyxUbU4zdWpESg%3D%3D&p=&m=0)**」SUNABA GALLERY(大阪)6.24\~7.3 グループ展「**[**199X⁵**](https://t.umblr.com/redirect?z=http%3A%2F%2Fwww.gallerycomplex.com%2Fschedule%2FACT165%2F9x5.html&t=NjAyMzc4NzgwOTM3YWQyOTNkNTJiZTAyY2JlZDgyNGRlNzE1OTkwZSxUbU4zdWpESg%3D%3D&p=&m=0)**」The Artcomplex Center of Tokyo(東京)  
+2\.23\~28 個展**「[awai](https://t.umblr.com/redirect?z=http%3A%2F%2Fwww.gallerycomplex.com%2Fschedule%2FACT163%2Fkyaraai.html&t=ZWFmYzc3NjNjOTk1YWUwZGFkODgzOGRlNGIxYmEzNzMyMzYwMzNkNixUbU4zdWpESg%3D%3D&p=&m=0)」The Artcomplex Center of Tokyo(東京)  
+▷2015  
 9\.3\~6 グループ展「[ゆとりチューン](https://t.umblr.com/redirect?z=http%3A%2F%2Fyutori.qnv.pw%2F%23about&t=NWEwM2EzODkyYzUwOWNhMjYyNGNjOThjNWYxZjAwNTZkZGFhNGFkZixUbU4zdWpESg%3D%3D&p=&m=0)」アトリエ 1616(大阪)  
 8\.11\~15 企画展「すき・きらい・すき」Gallery Conceal Shibuya(東京)  
 7\.28\~8.2 グループ展「[きゅーえっくす４](https://t.umblr.com/redirect?z=http%3A%2F%2Fwww.gallerycomplex.com%2Fschedule%2FACT155%2F9x.html&t=NDFlYTA4NDIyODViN2E0ZTg2ODFjNWY4YzI4M2ZiZWZhODUxMTM1MixUbU4zdWpESg%3D%3D&p=&m=0)」The Artcomplex Center of Tokyo(東京)  
