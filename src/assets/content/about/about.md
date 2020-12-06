@@ -1,7 +1,8 @@
 ---
-date: 2020-12-05T15:00:00Z
----
+date: '2020-12-05T15:00:00.000+00:00'
+update_date: 2020-12-07T04:56:15Z
 
+---
 # きゃらあい/kyaraai
 
 ##### Painter/Illustrator/Art producer
