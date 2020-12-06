@@ -1,17 +1,20 @@
 <template>
   <Layout v-if="isLoaded()">
-    <h2 class="title mb-2">News</h2>
+    <h2 class="title">News</h2>
     <ClientOnly>
-      <div v-masonry transition-duration="0.3s" item-selector=".item">
-        <div v-for="n in $page.allNews.edges" :key="n.node.id" v-masonry-tile class="item">
-          <g-link :to="'/news/' + n.node.id">
-            <g-image class="news-thumbnail" :src="n.node.thumbnail"></g-image>
-            <div class="card-content">
-              <p class="title is-6">&nbsp;{{ n.node.title }}</p>
-              <p class="subtitle is-6 mb-1">&nbsp;{{ n.node.subtitle }}</p>
-              <Tags :tags="getTagInfoList(n.node.tags)"></Tags>
-            </div>
-          </g-link>
+      <div v-masonry transition-duration="0.3s" item-selector=".item" gutter=".gutter-item">
+        <div v-for="n in $page.allNews.edges" :key="n.node.id">
+          <div class="gutter-item" />
+          <div v-masonry-tile class="item">
+            <g-link :to="'/news/' + n.node.id">
+              <g-image class="news-thumbnail" :src="n.node.thumbnail"></g-image>
+              <div class="card-content">
+                <p class="title is-6">&nbsp;{{ n.node.title }}</p>
+                <p class="subtitle is-6 mb-1">&nbsp;{{ n.node.subtitle }}</p>
+                <Tags :tags="getTagInfoList(n.node.tags)"></Tags>
+              </div>
+            </g-link>
+          </div>
         </div>
       </div>
     </ClientOnly>
@@ -60,6 +63,8 @@ query {
 }
 </page-query>
 <style lang="scss" scoped>
+@import '../../node_modules/bulma/bulma.sass';
+
 a:link,
 a:visited,
 a:hover,
@@ -68,10 +73,12 @@ a:active {
   font-size: 0.8em;
   font-weight: 600;
 }
-
+.gutter-item {
+  width: 20px;
+}
 .item {
-  width: 300px;
-  margin: 20px 10px;
+  width: 30vw;
+  margin-bottom: 20px;
   padding: 0px;
   border: 1px solid #e8e7e7;
   box-shadow: 0 2px 10px 0 rgba(0, 0, 0, 0.1);
@@ -84,9 +91,15 @@ a:active {
   }
   .news-thumbnail {
     margin: 0px;
-    width: 300px;
+    width: 100%;
     height: 150px;
     object-fit: cover;
+  }
+}
+
+@media screen and (max-width: $tablet) {
+  .item {
+    width: 100%;
   }
 }
 </style>
