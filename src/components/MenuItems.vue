@@ -100,10 +100,15 @@ export default class MenuItems extends Vue {
 </script>
 
 <style lang="scss" scoped>
+@import '../../node_modules/bulma/bulma.sass';
+
 ul.menu {
   padding-left: 10%;
   color: #ae596c;
   letter-spacing: 1px;
+  list-style-type: none !important; /*ポチ消す*/
+  line-height: 2em;
+
   li {
     &:before {
       display: inline-block;
@@ -120,23 +125,15 @@ ul.menu {
       &:hover {
         background-color: #d5dae2;
       }
-    }
-    a {
-      text-decoration: none;
-    }
-    a:link,
-    a:visited {
-      color: #ae596c !important;
-    }
-    a:hover,
-    a:active {
-      color: #ae596c !important;
+      color: #ae596c;
     }
 
-    // font-weight: bold;
-    // font-style: italic;
-    list-style-type: none !important; /*ポチ消す*/
-    line-height: 2em;
+    &.external {
+      &::before {
+        background: #8aaec7;
+      }
+      color: #296a88;
+    }
 
     ul {
       padding-left: 25px;
@@ -159,18 +156,29 @@ ul.menu {
         }
       }
     }
-    &.external {
-      &::before {
-        background: #8aaec7;
+  }
+}
+@media screen and (max-width: $tablet) {
+  ul.menu {
+    letter-spacing: 2px;
+    li {
+      &:before {
+        width: 0.7em;
+        height: 0.7em;
       }
-      color: #296a88;
-      a:link,
-      a:visited {
-        color: #296a88;
-      }
-      a:hover,
-      a:active {
-        color: #296a88;
+      font-size: 1.5em;
+      line-height: 2em;
+      ul {
+        .child {
+          &::before {
+            width: 0.5em;
+            height: 0.5em;
+            margin-right: 4px;
+          }
+          line-height: 1.5em;
+          font-size: 1em;
+          font-weight: 300;
+        }
       }
     }
   }
