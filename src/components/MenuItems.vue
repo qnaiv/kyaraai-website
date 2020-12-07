@@ -1,17 +1,27 @@
 <template>
   <ul class="menu">
-    <li v-for="item in menuItems" :key="item.label" :class="getMenuItemClasses(item)">
-      <a v-if="item.isExternal" :href="item.url" target="_blank" rel="noopener noreferrer">{{ item.label }}</a>
-      <g-link v-else-if="item.url" :to="item.url">{{ item.label }}</g-link>
-      <span v-else>{{ item.label }}</span>
-      <ul v-if="item.children">
-        <li v-for="child in item.children" :key="child.label" class="child">
-          <g-link :to="child.url">
-            {{ child.label }}
-          </g-link>
+    <div v-for="item in menuItems" :key="item.label">
+      <a v-if="item.isExternal" :href="item.url" target="_blank" rel="noopener noreferrer">
+        <li :class="getMenuItemClasses(item)" class="link">
+          {{ item.label }}
         </li>
-      </ul>
-    </li>
+      </a>
+      <g-link v-else-if="item.url" :to="item.url">
+        <li :class="getMenuItemClasses(item)" class="link">
+          {{ item.label }}
+        </li>
+      </g-link>
+      <li v-else>
+        {{ item.label }}
+        <ul v-if="item.children">
+          <li v-for="child in item.children" :key="child.label" class="child link">
+            <g-link :to="child.url">
+              {{ child.label }}
+            </g-link>
+          </li>
+        </ul>
+      </li>
+    </div>
   </ul>
 </template>
 
@@ -91,7 +101,7 @@ export default class MenuItems extends Vue {
 
 <style lang="scss" scoped>
 ul.menu {
-  padding-left: 60px;
+  padding-left: 10%;
   color: #ae596c;
   letter-spacing: 1px;
   li {
@@ -106,22 +116,27 @@ ul.menu {
       margin-right: 8px;
     }
 
-    font-weight: bold;
-    font-style: italic;
-    list-style-type: none !important; /*ポチ消す*/
-    line-height: 2em;
-
+    &.link {
+      &:hover {
+        background-color: #d5dae2;
+      }
+    }
     a {
       text-decoration: none;
     }
     a:link,
     a:visited {
-      color: #ae596c;
+      color: #ae596c !important;
     }
     a:hover,
     a:active {
-      color: #ae596c;
+      color: #ae596c !important;
     }
+
+    // font-weight: bold;
+    // font-style: italic;
+    list-style-type: none !important; /*ポチ消す*/
+    line-height: 2em;
 
     ul {
       padding-left: 25px;
