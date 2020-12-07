@@ -14,11 +14,13 @@
       <li v-else>
         {{ item.label }}
         <ul v-if="item.children">
-          <li v-for="child in item.children" :key="child.label" class="child link">
+          <div v-for="child in item.children" :key="child.label">
             <g-link :to="child.url">
-              {{ child.label }}
+              <li class="child link">
+                {{ child.label }}
+              </li>
             </g-link>
-          </li>
+          </div>
         </ul>
       </li>
     </div>
@@ -103,7 +105,7 @@ export default class MenuItems extends Vue {
 @import '../../node_modules/bulma/bulma.sass';
 
 ul.menu {
-  padding-left: 10%;
+  padding-left: 15%;
   color: #ae596c;
   letter-spacing: 1px;
   list-style-type: none !important; /*ポチ消す*/

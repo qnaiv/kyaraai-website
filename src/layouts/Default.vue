@@ -3,7 +3,7 @@
     <nav class="navbar is-fixed-top is-hidden-tablet">
       <div class="navbar-brand">
         <g-link class="logo" to="/">
-          <g-image src="~/assets/logo.png" fit="inside" width="200" height="80" />
+          <g-image src="~/assets/logo.png" fit="inside" height="120" />
         </g-link>
       </div>
       <ClientOnly>
@@ -18,7 +18,7 @@
         <SideMenu />
       </div>
       <div class="column">
-        <div class="section has-padding-top-100-mobile has-padding-50-tablet">
+        <div class="section has-padding-top-140-mobile has-padding-50-tablet">
           <slot />
         </div>
       </div>
