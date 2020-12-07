@@ -5,8 +5,9 @@
 // To restart press CTRL + C in terminal and run `gridsome develop`
 
 module.exports = {
-  siteName: `Gridsome`,
+  siteName: `kyaraai`,
   pathPrefix: `/kyaraai-website`,
+  titleTemplate: `kyaraai`,
   plugins: [
     {
       use: `gridsome-plugin-typescript`,
