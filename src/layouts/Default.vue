@@ -77,6 +77,7 @@ export default class Default extends Vue {}
 }
 .bm-menu {
   background-color: $menu-bg-color !important; /* Black*/
+  white-space: nowrap;
 }
 .bm-item-list > * {
   display: inherit !important;
