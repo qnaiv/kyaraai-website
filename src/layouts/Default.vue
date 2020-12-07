@@ -7,7 +7,7 @@
         </g-link>
       </div>
       <ClientOnly>
-        <Slide right no-overlay>
+        <Slide right no-overlay :close-on-navigation="true">
           <MenuItems />
         </Slide>
       </ClientOnly>
@@ -49,9 +49,10 @@ export default class Default extends Vue {}
 </script>
 
 <style lang="scss">
-@import '../../node_modules/bulma/bulma.sass';
 @import '../assets/style/color.scss';
-
+/* .main-container {
+  margin: 0px !important;
+} */
 .logo {
   position: fixed;
   top: 10px;
