@@ -56,22 +56,17 @@ export default class MenuItems extends Vue {
       isExternal: false,
     },
     {
-      label: 'Artwork',
+      label: 'Gallery',
       isExternal: false,
       children: [
         {
-          label: 'Painting',
-          url: '/artworks?tags=PAINTING',
+          label: 'Personal works',
+          url: '/gallery?tags=Personal work',
           isExternal: false,
         },
         {
-          label: 'Digital art',
-          url: '/artworks?tags=DIGITAL',
-          isExternal: false,
-        },
-        {
-          label: 'Work',
-          url: '/artworks?tags=WORK',
+          label: 'Client works',
+          url: '/gallery?tags=Client work',
           isExternal: false,
         },
       ],

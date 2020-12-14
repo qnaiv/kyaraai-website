@@ -1,6 +1,6 @@
 <template>
   <Layout>
-    <h2 class="title mb-2">Artworks - {{ getTags() }}</h2>
+    <h2 class="title mb-2">Gallery - {{ getTags() }}</h2>
     <Posts :posts="getFilteredArtworksByTag()" :category="'artwork'"></Posts>
   </Layout>
 </template>
