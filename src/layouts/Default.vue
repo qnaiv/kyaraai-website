@@ -18,7 +18,7 @@
         <SideMenu />
       </div>
       <div class="column">
-        <div class="section has-padding-top-140-mobile has-padding-50-tablet">
+        <div class="section has-padding-top-145-mobile has-padding-50-tablet">
           <slot />
         </div>
       </div>
@@ -49,7 +49,7 @@ export default class Default extends Vue {}
 </script>
 
 <style lang="scss">
-@import '../assets/style/color.scss';
+@import '../assets/style/_variables.scss';
 /* .main-container {
   margin: 0px !important;
 } */
