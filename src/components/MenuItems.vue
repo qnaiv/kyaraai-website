@@ -118,6 +118,9 @@ ul.menu {
       margin-right: 8px;
     }
 
+    font-size: 0.8em;
+    font-weight: 500;
+
     &.link {
       &:hover {
         background-color: #d5dae2;
@@ -142,9 +145,9 @@ ul.menu {
           margin-right: 4px;
         }
         color: #636363;
-        line-height: 1.5em;
-        font-size: 0.9em;
-        font-weight: 600;
+        line-height: 2em;
+        font-size: 1em;
+        font-weight: 400;
         a:link,
         a:visited,
         a:hover,
@@ -163,8 +166,9 @@ ul.menu {
         width: 0.7em;
         height: 0.7em;
       }
-      font-size: 1.5em;
-      line-height: 2em;
+      font-size: 1.1em;
+      font-weight: 300;
+      line-height: 2.5em;
       ul {
         .child {
           &::before {
@@ -172,8 +176,8 @@ ul.menu {
             height: 0.5em;
             margin-right: 4px;
           }
-          line-height: 1.5em;
-          font-size: 1em;
+          line-height: 2em;
+          font-size: 0.9em;
           font-weight: 300;
         }
       }
