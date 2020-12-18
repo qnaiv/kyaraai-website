@@ -1,0 +1,10 @@
+@charset "utf-8";
+
+// Spacing
+$main-container-padding-x: 24px;
+
+// Colors
+$menu-bg-color: #e3e7ee;
+
+@import '../../../node_modules/bulma/bulma.sass';
+@import '../../../node_modules/bulma-helpers/bulma-helpers.sass';

@@ -48,4 +48,9 @@ query {
   }
 }
 </page-query>
-<style></style>
+<style lang="scss" scoped>
+.title {
+  font-weight: 300 !important;
+  font-size: 1em !important;
+}
+</style>
