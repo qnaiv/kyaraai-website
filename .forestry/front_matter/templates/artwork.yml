@@ -26,6 +26,7 @@ fields:
   default: []
   label: tags
 pages:
+- src/assets/content/artwork/199x-egg.md
 - src/assets/content/artwork/かわいいあのこ.md
 - src/assets/content/artwork/こんなに目があっても.md
 - src/assets/content/artwork/ちょっと宇宙まで.md
