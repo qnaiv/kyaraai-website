@@ -3,7 +3,7 @@ tags:
 - PAINTING
 - PERSONAL WORKS
 title: camo
-date: 2020-11-20T15:00:00Z
+date: 2020-11-19T15:00:00Z
 thumbnail: "/src/assets/content/images/2020_camo.jpg"
 
 ---
