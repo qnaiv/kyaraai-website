@@ -3,7 +3,7 @@ tags:
 - PERSONAL WORKS
 - PAINTING
 title: 199X Egg
-date: 2020-11-20T15:00:00Z
+date: 2020-11-19T15:00:00Z
 thumbnail: "/src/assets/content/images/2020_199x-egg.jpg"
 
 ---
