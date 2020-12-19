@@ -18,4 +18,5 @@ fields:
   name: tags
   label: tags
 pages:
+- src/assets/content/news/199x.md
 - src/assets/content/news/2020.md
