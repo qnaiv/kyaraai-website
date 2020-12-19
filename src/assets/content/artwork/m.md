@@ -16,7 +16,7 @@ thumbnail: "/src/assets/content/images/2020_yukarim-posts.jpg"
 
 このプロジェクトは、2019-12-22に募集を開始し、539人の支援により9,774,480円の資金を集め、2020-02-29に募集を終了しました。
 
-その他詳細→[https://camp-fire.jp/projects/view/219220#menu](https://camp-fire.jp/projects/view/219220#menu "https://camp-fire.jp/projects/view/219220#menu")
+クラウドファンディングについて詳細→[https://camp-fire.jp/projects/view/219220#menu](https://camp-fire.jp/projects/view/219220#menu "https://camp-fire.jp/projects/view/219220#menu")
 
 **きゃらあいイラスト ポストカード紹介記事**  
 [https://camp-fire.jp/projects/219220/activities/123820#main](https://camp-fire.jp/projects/219220/activities/123820#main "https://camp-fire.jp/projects/219220/activities/123820#main")
