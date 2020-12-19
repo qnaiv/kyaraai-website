@@ -16,7 +16,7 @@ tags:
 > 会期：2019年12月3日（火）-12月8日（日）
 >
 > 会場：River Coffee & Gallery（東京都文京区西片2-21-6 紅谷ビル1F）  
-> 時間：8:00～18:00   
+> 時間：8:00～18:00  
 > 詳細　[https://rivercag.com/hero.html](https://rivercag.com/hero.html "https://rivercag.com/hero.html")
 
 **展示風景**
