@@ -17,3 +17,5 @@ fields:
 - type: list
   name: tags
   label: tags
+pages:
+- src/assets/content/news/2020.md
