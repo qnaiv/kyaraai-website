@@ -8,7 +8,7 @@ thumbnail: "/src/assets/content/images/2020_yukarim-posts.jpg"
 ---
 ![](/src/assets/content/images/2020_yukarim-posts.jpg)
 
-結月ゆかりMμクラウドファンディング-リターン用イラスト
+##### 結月ゆかりMμクラウドファンディング-リターン用イラスト
 
 **石黒千尋×結月ゆかり！みんなでつくる2.5次元『結月ゆかりMμ（みゅー）』**
 
