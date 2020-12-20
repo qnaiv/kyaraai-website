@@ -26,14 +26,14 @@ fields:
   config:
     maxSize: 64
   label: Image
-- name: tags
-  type: tag_list
-  default: []
-  label: tags
 - name: images
   type: image_gallery
   config: {}
   label: Images
+- name: tags
+  type: tag_list
+  default: []
+  label: tags
 pages:
 - src/assets/content/artwork/199x-egg.md
 - src/assets/content/artwork/camo.md
