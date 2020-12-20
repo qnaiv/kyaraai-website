@@ -3,7 +3,7 @@
     <nav class="navbar is-fixed-top is-hidden-tablet">
       <div class="navbar-brand">
         <g-link class="logo" to="/">
-          <g-image src="~/assets/logo.png" fit="inside" height="120" />
+          <g-image src="~/assets/logo.png" fit="inside" height="100" />
         </g-link>
       </div>
       <ClientOnly>

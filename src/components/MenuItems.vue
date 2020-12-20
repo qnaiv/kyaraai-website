@@ -6,23 +6,27 @@
           {{ item.label }}
         </li>
       </a>
-      <g-link v-else-if="item.url" :to="item.url">
+      <g-link v-else-if="!item.children" :to="item.url">
         <li :class="getMenuItemClasses(item)" class="link">
           {{ item.label }}
         </li>
       </g-link>
-      <li v-else>
-        {{ item.label }}
-        <ul v-if="item.children">
+      <div v-else>
+        <g-link :to="item.url">
+          <li class="link">
+            {{ item.label }}
+          </li>
+        </g-link>
+        <ul v-if="item.children" class="child">
           <div v-for="child in item.children" :key="child.label">
             <g-link :to="child.url">
-              <li class="child link">
+              <li class="link">
                 {{ child.label }}
               </li>
             </g-link>
           </div>
         </ul>
-      </li>
+      </div>
     </div>
   </ul>
 </template>
@@ -57,6 +61,7 @@ export default class MenuItems extends Vue {
     },
     {
       label: 'Gallery',
+      url: '/gallery',
       isExternal: false,
       children: [
         {
@@ -78,7 +83,7 @@ export default class MenuItems extends Vue {
     },
     {
       label: 'Shop',
-      url: 'https://iceya.thebase.in/',
+      url: 'https://iceya.booth.pm/',
       isExternal: true,
     },
     {
@@ -134,26 +139,25 @@ ul.menu {
       }
       color: #296a88;
     }
-
-    ul {
-      padding-left: 25px;
-      margin-bottom: 20px;
-      .child {
-        &::before {
-          width: 0.5em;
-          height: 0.5em;
-          margin-right: 4px;
-        }
+  }
+  ul.child {
+    padding-left: 25px;
+    margin-bottom: 20px;
+    li {
+      &::before {
+        width: 0.5em;
+        height: 0.5em;
+        margin-right: 4px;
+      }
+      color: #636363;
+      line-height: 2em;
+      font-size: 0.8em;
+      font-weight: 400;
+      a:link,
+      a:visited,
+      a:hover,
+      a:active {
         color: #636363;
-        line-height: 2em;
-        font-size: 1em;
-        font-weight: 400;
-        a:link,
-        a:visited,
-        a:hover,
-        a:active {
-          color: #636363;
-        }
       }
     }
   }
@@ -169,17 +173,17 @@ ul.menu {
       font-size: 1.1em;
       font-weight: 300;
       line-height: 2.5em;
-      ul {
-        .child {
-          &::before {
-            width: 0.5em;
-            height: 0.5em;
-            margin-right: 4px;
-          }
-          line-height: 2em;
-          font-size: 0.9em;
-          font-weight: 300;
+    }
+    ul.child {
+      li {
+        &::before {
+          width: 0.5em;
+          height: 0.5em;
+          margin-right: 4px;
         }
+        line-height: 2em;
+        font-size: 1em;
+        font-weight: 300;
       }
     }
   }

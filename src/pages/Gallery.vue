@@ -1,6 +1,8 @@
 <template>
   <Layout>
-    <h2 class="title mb-2">Gallery - {{ getTags() }}</h2>
+    <h2 class="title mb-2">
+      Gallery <span v-if="tags"> - {{ tags }}</span>
+    </h2>
     <Posts :posts="getFilteredArtworksByTag()" :category="'artwork'"></Posts>
   </Layout>
 </template>
@@ -16,16 +18,22 @@ import { Route } from 'vue-router'
 export default class Artworks extends Vue {
   $route!: Route
   $page!: any
-  getTags(): string | Array<string | null> {
+  get tags(): string | Array<string | null> {
     return this.$route.query.tags
   }
+
   getFilteredArtworksByTag(): Array<any> {
-    const query = this.$route.query.tags
-    if (query == null) {
-      return []
-    }
-    let currentTag: string | null = query instanceof Array ? query[0] : query
     let artworks: Array<any> = this.$page.artworks.edges
+    const query = this.tags
+    if (query == null) {
+      return artworks
+    }
+
+    let currentTag: string | null = query instanceof Array ? query[0] : query
+    if (!currentTag) {
+      return artworks
+    }
+
     return artworks.filter((a: any) =>
       a.node.tags.map((t: string) => t.toUpperCase()).includes(currentTag?.toUpperCase())
     )
