@@ -2,12 +2,11 @@
 tags:
 - CLIENT WORKS
 title: 結月ゆかりMμクラウドファンディング-リターン用イラスト
-date: 2020-03-31T15:00:00Z
+date: 2020-03-31T15:00:00.000+00:00
 thumbnail: "/src/assets/content/images/2020_yukarim-posts.jpg"
+image: "/src/assets/content/images/2020_yukarim-posts.jpg"
 
 ---
-![](/src/assets/content/images/2020_yukarim-posts.jpg)
-
 ##### 結月ゆかりMμクラウドファンディング-リターン用イラスト
 
 **石黒千尋×結月ゆかり！みんなでつくる2.5次元『結月ゆかりMμ（みゅー）』**
