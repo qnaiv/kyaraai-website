@@ -13,7 +13,6 @@ images:
 - "/src/assets/content/images/2020_camo4.jpg"
 
 ---
-![](/src/assets/content/images/2020_camo.jpg)![](/src/assets/content/images/2020_camo2.jpg)![](/src/assets/content/images/2020_camo3.jpg)![](/src/assets/content/images/2020_camo4.jpg)
 
 《199X Egg》
 
