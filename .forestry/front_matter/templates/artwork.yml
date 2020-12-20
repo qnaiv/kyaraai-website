@@ -30,6 +30,10 @@ fields:
   type: tag_list
   default: []
   label: tags
+- name: images
+  type: image_gallery
+  config: {}
+  label: Images
 pages:
 - src/assets/content/artwork/199x-egg.md
 - src/assets/content/artwork/camo.md
