@@ -1,6 +1,6 @@
 <template>
   <Layout>
-    <div class="content" v-html="$page.artwork.content" />
+    <div class="gallery-content" v-html="$page.artwork.content" />
   </Layout>
 </template>
 
@@ -23,4 +23,17 @@ query Artwork($id: ID!) {
 }
 </page-query>
 
-<style></style>
+<style lang="scss">
+@import '../../node_modules/bulma/bulma.sass';
+
+.gallery-content {
+  text-align: center;
+  img {
+    height: auto !important;
+    width: auto !important;
+    max-height: 70vh !important;
+    max-width: 100% !important;
+    margin: 0 auto !important;
+  }
+}
+</style>
