@@ -30,7 +30,7 @@ export default class SideMenu extends Vue {}
 .side-menu {
   top: 0px;
   bottom: 0px;
-  background-color: #e3e7ee;
+  background-color: #fff;
   padding: 200px 10px 0 10px;
   position: sticky;
   display: inline-block;

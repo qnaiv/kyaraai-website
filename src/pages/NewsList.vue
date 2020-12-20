@@ -32,7 +32,7 @@ import Tags, { TagInfo } from '../components/Tags.vue'
 export default class News extends Vue {
   $page: any
   isLoaded(): boolean {
-    return this.$page.allNews
+    return this.$page && this.$page.allNews
   }
   getTagInfoList(tags: Array<string>) {
     const tagInfoList: Array<TagInfo> = []
