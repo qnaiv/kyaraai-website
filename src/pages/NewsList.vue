@@ -7,7 +7,7 @@
           <div class="gutter-item" />
           <div v-masonry-tile class="item">
             <g-link :to="'/news/' + n.node.id">
-              <g-image class="news-thumbnail" :src="n.node.thumbnail"></g-image>
+              <g-image class="news-thumbnail" :src="n.node.thumbnail" immediate="true"></g-image>
               <div class="card-content">
                 <p class="title is-6">&nbsp;{{ n.node.title }}</p>
                 <p class="subtitle is-6 mb-1">&nbsp;{{ n.node.subtitle }}</p>

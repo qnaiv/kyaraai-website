@@ -18,7 +18,9 @@
     </div>
     <div class="columns is-desktop is-variable is-8">
       <div class="column is-three-fifths image-container">
-        <g-image :src="$page.artwork.image" />
+        <div v-for="image in $page.artwork.images" :key="image">
+          <g-image :src="image" immediate="true" />
+        </div>
       </div>
       <div class="column content content-container" v-html="$page.artwork.content" />
     </div>
@@ -83,7 +85,7 @@ query Artwork($id: ID!) {
     title
     id
     thumbnail
-    image
+    images
     date
     content
     tags
