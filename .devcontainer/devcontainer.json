@@ -23,7 +23,7 @@
 		"ms-vscode.vscode-typescript-tslint-plugin",
 		"visualstudioexptteam.vscodeintellicode",
 		"octref.vetur",
-		"tabnine.tabnine-vscode",
+		// "tabnine.tabnine-vscode",
 		"christian-kohler.path-intellisense",
 		"wraith13.bracket-lens",
 		"esbenp.prettier-vscode",

@@ -3,7 +3,7 @@
     <nav class="navbar is-fixed-top is-hidden-tablet">
       <div class="navbar-brand">
         <g-link class="logo" to="/">
-          <g-image src="~/assets/logo.png" fit="inside" height="100" immediate="true" />
+          <g-image src="~/assets/logo.png" fit="inside"  quality="100" immediate="true" />
         </g-link>
       </div>
       <ClientOnly>
@@ -57,6 +57,10 @@ export default class Default extends Vue {}
   position: fixed;
   top: 10px;
   left: 20px;
+  img{
+    width: auto;
+    height: 100px;
+  }
 }
 .bm-burger-button {
   top: 22px !important;
