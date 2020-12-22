@@ -1,6 +1,6 @@
 <template>
   <Layout>
-    <h2 class="title mb-2">
+    <h2 class="list-title mb-2">
       Gallery <span v-if="tags"> - {{ tags }}</span>
     </h2>
     <Posts :posts="getFilteredArtworksByTag()" :category="'artwork'"></Posts>

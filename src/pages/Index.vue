@@ -2,7 +2,7 @@
   <Layout>
     <div class="top-page">
       <RecentNews class="recent-news"></RecentNews>
-      <g-image class="top-image" src="~/assets/top.jpg" immediate="true" />
+      <g-image class="top-image" src="~/assets/top.jpg" :immediate="true" />
     </div>
   </Layout>
 </template>

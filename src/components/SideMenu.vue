@@ -1,7 +1,7 @@
 <template>
   <div class="side-menu has-page-width-mobile">
     <g-link to="/">
-      <g-image class="logo" src="~/assets/logo.png" immediate="true" />
+      <g-image class="logo" src="~/assets/logo.png" :immediate="true" />
     </g-link>
     <MenuItems />
   </div>

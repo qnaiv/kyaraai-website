@@ -120,7 +120,8 @@ ul.menu {
       width: 0.7em;
       height: 0.7em;
       background: #e9a5b8;
-      margin-right: 8px;
+      margin: 0 8px;
+      border-radius: 1px;
     }
 
     font-size: 0.8em;

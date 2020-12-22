@@ -19,7 +19,7 @@
     <div class="columns is-desktop is-variable is-8">
       <div class="column is-three-fifths image-container">
         <div v-for="image in $page.artwork.images" :key="image">
-          <g-image :src="image" immediate="true" />
+          <g-image :src="image" :immediate="true" />
         </div>
       </div>
       <div class="column content content-container" v-html="$page.artwork.content" />
@@ -115,16 +115,15 @@ query Artwork($id: ID!) {
     margin: 0 auto !important;
   }
 }
-.content-container {
-  word-break: break-all;
-  font-size: 0.8em;
-}
+
 
 .nav-prev-next {
   text-align: center;
   a.column {
     &:hover {
       background-color: #f0f0f0;
+        background:url(
+data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAYAAACp8Z5+AAAAHElEQVQYV2M8fvz4f0tLS0YGKIAzMARgKjFUAABfnQgFlPu/LwAAAABJRU5ErkJggg==   ) repeat;
     }
   }
   .to-gallery {

@@ -6,5 +6,30 @@ $main-container-padding-x: 24px;
 // Colors
 $menu-bg-color: #e3e7ee;
 
+/*
+ Bulma override setting
+*/
+// font
+$title-size: 1.5rem;
+$title-weight: 300;
+$subtitle-size: 1rem;
+
+// navbar
+$navbar-height: 4rem;
+
+// Font colors
+$grey-dark: #767676;
+$grey-darker: #686868;
+
+// Link colors
+$link: #67bdcd !default;
+$link-invert: findColorInvert($link) !default;
+$link-light: findLightColor($link) !default;
+$link-dark: findDarkColor($link) !default;
+$link-visited: #67bdcd !default;
+$link-hover: #4e8f9b !default;
+$link-focus: #4e8f9b !default;
+$link-active: #4e8f9b !default;
+
 @import '../../../node_modules/bulma/bulma.sass';
 @import '../../../node_modules/bulma-helpers/bulma-helpers.sass';

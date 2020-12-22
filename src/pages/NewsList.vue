@@ -1,13 +1,13 @@
 <template>
   <Layout v-if="isLoaded()">
-    <h2 class="title">News</h2>
+    <h2 class="list-title mb-2">News</h2>
     <ClientOnly>
       <div v-masonry transition-duration="0.3s" item-selector=".item" gutter=".gutter-item">
         <div v-for="n in $page.allNews.edges" :key="n.node.id">
           <div class="gutter-item" />
           <div v-masonry-tile class="item">
             <g-link :to="'/news/' + n.node.id">
-              <g-image class="news-thumbnail" :src="n.node.thumbnail" immediate="true"></g-image>
+              <g-image class="news-thumbnail" :src="n.node.thumbnail" :immediate="true"></g-image>
               <div class="card-content">
                 <p class="title is-6">&nbsp;{{ n.node.title }}</p>
                 <p class="subtitle is-6 mb-1">&nbsp;{{ n.node.subtitle }}</p>

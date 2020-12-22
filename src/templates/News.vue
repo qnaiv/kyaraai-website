@@ -2,7 +2,7 @@
   <Layout v-if="isLoaded()">
     <h2 class="title">{{ $page.news.title }}</h2>
     <h3 class="subtitle">{{ $page.news.subtitle }}</h3>
-    <div class="content" v-html="$page.news.content" />
+    <div class="content content-container" v-html="$page.news.content" />
   </Layout>
 </template>
 
