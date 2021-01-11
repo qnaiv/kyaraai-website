@@ -13,14 +13,14 @@
       </g-link>
       <div v-else>
         <g-link :to="item.url">
-          <li class="link">
+          <li class="link" :class="getMenuItemClasses(item)">
             {{ item.label }}
           </li>
         </g-link>
         <ul v-if="item.children" class="child">
           <div v-for="child in item.children" :key="child.label">
             <g-link :to="child.url">
-              <li class="link">
+              <li class="link" :class="getMenuItemClasses(child)">
                 {{ child.label }}
               </li>
             </g-link>
@@ -96,6 +96,7 @@ export default class MenuItems extends Vue {
   getMenuItemClasses(item: MenuItem): string[] {
     let classes: string[] = []
     if (item.isExternal) classes.push('external')
+    if(item.url != undefined && encodeURI(item.url) === this.$route.fullPath) classes.push('current')
     return classes
   }
 }
@@ -123,6 +124,10 @@ ul.menu {
       margin: 0 8px;
       border-radius: 1px;
     }
+    &.current:before {
+        border: 1px solid #e9a5b8;
+        background: white;
+    }
 
     font-size: 0.8em;
     font-weight: 500;
@@ -149,6 +154,10 @@ ul.menu {
         width: 0.5em;
         height: 0.5em;
         margin-right: 4px;
+      }
+      &.current:before {
+          border: 1px solid #e9a5b8;
+          background: white;
       }
       color: #636363;
       line-height: 2em;
