@@ -10,7 +10,9 @@ tags:
 ---
 ![](/src/assets/content/images/2020_neow01.jpg)
 
-obキュレーション展「neo wassyoi」に参加いたします。
+obキュレーション展「neo wassyoi」に参加いたします。  
+展示開始日までobさんのYoutubeチャンネルにて、毎日配信を行いました。  
+[https://www.youtube.com/user/ob0w0/videos](https://www.youtube.com/user/ob0w0/videos "ob Youtubeチャンネル")
 
 > **obキュレーション展「neo wassyoi」**  
 > 会期：2020年6月26日(金)～2020年7月17日(金)  
