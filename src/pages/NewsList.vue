@@ -48,11 +48,11 @@ export default class News extends Vue {
 </script>
 <page-query>
 query {
-  allNews: allNews(sortBy: "date") {
+  allNews: allNews(sortBy: "date", order: DESC) {
     edges {
       node {
         id
-        date(format: "YYYY")
+        date(format: "YYYY-MM-DD")
         title
         subtitle
         tags

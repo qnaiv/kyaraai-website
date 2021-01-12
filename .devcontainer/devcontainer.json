@@ -23,12 +23,12 @@
 		"ms-vscode.vscode-typescript-tslint-plugin",
 		"visualstudioexptteam.vscodeintellicode",
 		"octref.vetur",
-		// "tabnine.tabnine-vscode",
 		"christian-kohler.path-intellisense",
 		"wraith13.bracket-lens",
 		"esbenp.prettier-vscode",
 		"kumar-harsh.graphql-for-vscode",
-		"antsteyer.vue-property-decorator-snippets"
+		"antsteyer.vue-property-decorator-snippets",
+		"knisterpeter.vscode-github"
 	],
 
 	// Use 'forwardPorts' to make a list of ports inside the container available locally.
