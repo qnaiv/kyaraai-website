@@ -66,12 +66,12 @@ export default class MenuItems extends Vue {
       children: [
         {
           label: 'Personal works',
-          url: '/gallery?tags=Personal works',
+          url: '/gallery/?tags=Personal works',
           isExternal: false,
         },
         {
           label: 'Client works',
-          url: '/gallery?tags=Client works',
+          url: '/gallery/?tags=Client works',
           isExternal: false,
         },
       ],
