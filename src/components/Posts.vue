@@ -2,7 +2,7 @@
   <div>
     <ClientOnly>
       <div v-masonry transition-duration="0.3s" item-selector=".item">
-        <div v-for="post in posts" :key="post.id" v-masonry-tile class="item">
+        <div v-for="(post, index) in posts" :key="index" v-masonry-tile class="item">
           <g-link :to="'/' + category + '/' + post.node.id">
             <g-image class="thumbnail" :src="post.node.thumbnail" :immediate="true" />
           </g-link>

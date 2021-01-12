@@ -3,7 +3,7 @@
     <h2 class="list-title mb-2">News</h2>
     <ClientOnly>
       <div v-masonry transition-duration="0.3s" item-selector=".item" gutter=".gutter-item">
-        <div v-for="n in $page.allNews.edges" :key="n.node.id">
+        <div v-for="(n, index) in $page.allNews.edges" :key="index">
           <div class="gutter-item" />
           <div v-masonry-tile class="item">
             <g-link :to="'/news/' + n.node.id">

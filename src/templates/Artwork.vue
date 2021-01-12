@@ -18,7 +18,7 @@
     </div>
     <div class="columns is-desktop is-variable is-8">
       <div class="column is-three-fifths image-container">
-        <div v-for="image in $page.artwork.images" :key="image">
+        <div v-for="(image, index) in $page.artwork.images" :key="index">
           <g-image :src="image" :immediate="true" />
         </div>
       </div>

@@ -1,6 +1,6 @@
 <template>
   <ul class="menu">
-    <div v-for="item in menuItems" :key="item.label">
+    <div v-for="(item, index) in menuItems" :key="index">
       <a v-if="item.isExternal" :href="item.url" target="_blank" rel="noopener noreferrer">
         <li :class="getMenuItemClasses(item)" class="link">
           {{ item.label }}
@@ -18,7 +18,7 @@
           </li>
         </g-link>
         <ul v-if="item.children" class="child">
-          <div v-for="child in item.children" :key="child.label">
+          <div v-for="(child, index) in item.children" :key="index">
             <g-link :to="child.url">
               <li class="link" :class="getMenuItemClasses(child)">
                 {{ child.label }}

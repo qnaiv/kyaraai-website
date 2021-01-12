@@ -1,6 +1,6 @@
 <template>
   <div>
-    <span v-for="tag in tags" :key="tag" class="tag" :style="{ backgroundColor: tag.colorCode }">
+    <span v-for="(tag, index) in tags" :key="index" class="tag" :style="{ backgroundColor: tag.colorCode }">
       {{ tag.tagName }}
     </span>
   </div>
