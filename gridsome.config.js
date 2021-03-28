@@ -39,9 +39,6 @@ module.exports = {
         resolveAbsolutePaths: true,
       },
     },
-    {
-      use: '@national-digital/gridsome-plugin-keep-processed-images',
-    },
   ],
   templates: {
     Artwork: '/artwork/:id',

@@ -18,6 +18,8 @@
     "eslint-plugin-gridsome": "^1.5.0",
     "eslint-plugin-prettier": "^3.1.4",
     "eslint-plugin-vue": "^7.1.0",
+    "fs": "^0.0.1-security",
+    "fs-extra": "^9.1.0",
     "gridsome": "^0.7.23",
     "gridsome-plugin-typescript": "^0.4.0",
     "prettier": "^2.2.0",
@@ -29,7 +31,6 @@
     "vue-property-decorator": "^9.1.2"
   },
   "devDependencies": {
-    "@national-digital/gridsome-plugin-keep-processed-images": "^1.0.3",
     "node-sass": "4.14.1",
     "sass-loader": "7.3.1"
   }
