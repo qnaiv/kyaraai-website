@@ -19,7 +19,7 @@
     <div class="columns is-desktop is-variable is-8">
       <div class="column is-three-fifths image-container">
         <div v-for="(image, index) in $page.artwork.images" :key="index">
-          <g-image :src="image" :immediate="true" />
+          <g-image v-if="image" :src="image" :immediate="true" />
         </div>
       </div>
       <div class="column content content-container" v-html="$page.artwork.content" />
