@@ -9,39 +9,49 @@ update_date: 2020-12-07T04:56:15Z
 
 ##### 
 
-1996年生まれ。大阪府出身。アクリル絵の具などを用いた絵画の制作とデジタル作画によるイラストレーションを制作している。
-
-2009 年頃からボーカロイド楽曲にデジタルイラストを提供し、インターネット上で作品の発表を始める。  
-2014 年に東京開催された、同年代によるグループ展の参加をきっかけに、ペインティング作品の展示活動を開始。
-
-現在は、国内外での展示活動やライブペイント等のイベントを行うほか、イラストレーターとしても活動。
-
+1996年生まれ。大阪府出身。アクリル絵の具などを用いた絵画の制作とデジタル作画によるイラストレーションを制作している。  
+2009 年頃からボーカロイド楽曲にデジタルイラストを提供し、インターネット上で作品の発表を始める。2014 年に東京開催された、同年代によるグループ展の参加をきっかけに、ペインティング作品の展示活動を開始。  
+現在は、国内外での展示活動やライブペイント等のイベントを行うほか、イラストレーターとしても活動。  
 また、過去には大阪でアートプロジェクトのディレクターを行うなど、形に捉われない表現で活動している。
 
-‐  
+◎
+
 Art Concept
 
 強い眼差しを持った瞳の大きな少女を描く。  
 SNS上で顕著に現れる、人のもつ汚れや矛盾、ゆらぎについて興味を持ち、自身も常に他人事ではない事を忘れないため表現活動をしている。  
 近年は主に、幼少期から印象的だった地元の高速道路や煙、汚れた川をモチーフとし、輝きを含みながら表現することで、汚れについて多方面から捉えることを試みる。
 
-–
+◎
 
 ご依頼などは下記メールアドレスや Twitter からお気軽にご相談ください。  
 mail:kyaraai.work アット gmail.com
 
 ▶︎ 展示歴
 
-個展 - Solo exhibition  
-2019\.12/3\~8 「[ヒーローのふりをした悪役](https://rivercag.com/hero.html)」River Coffee & Gallery  
-2019\.1/25\~2/5 「[わるだくみ会議](https://t.umblr.com/redirect?z=https%3A%2F%2Fwww.sangatsu.net%2Fposts%2F5537039%2F&t=MThjZTA4NjkwYTQ0NmQ5MGU2YTI3MjZhNTQ2YjA2YjZjODVkOGI3NCxUbU4zdWpESg%3D%3D&p=&m=0)」アトリエ三月（大阪）  
-2018\.2/23\~3/4 「[煙に巻く](https://www.sangatsu.net/posts/3683026/)」アトリエ三月(大阪)  
-2018\.7/21\~8/19 「[私は、私の生き方をする。](http://threestar-kyoto.jp/culture-event/%E3%80%90new-gallery%E3%80%91%E3%80%8C%E7%A7%81%E3%81%AF%E3%80%81%E7%A7%81%E3%81%AE%E7%94%9F%E3%81%8D%E6%96%B9%E3%82%92%E3%81%99%E3%82%8B%E3%80%82%E3%80%8D/)」three star kyoto（京都）  
-2016\.2/23\~28 「[awai](https://t.umblr.com/redirect?z=http%3A%2F%2Fwww.gallerycomplex.com%2Fschedule%2FACT163%2Fkyaraai.html&t=ZWFmYzc3NjNjOTk1YWUwZGFkODgzOGRlNGIxYmEzNzMyMzYwMzNkNixUbU4zdWpESg%3D%3D&p=&m=0)」The Artcomplex Center of Tokyo(東京)  
-2015\.2/24\~3/1 「[絶対になるもんか！](https://t.umblr.com/redirect?z=http%3A%2F%2Fwww.gallerycomplex.com%2Fschedule%2FACT153%2Fkyaraai.html&t=NDk0NWE3ZTgwOTc5MGY0NGNmM2NiN2ZkMWU5ZTdkYjU1NWVkM2JmMyxUbU4zdWpESg%3D%3D&p=&m=0)」The Artcomplex Center of Tokyo(東京)
+**個展 - Solo exhibition**
+
+▷2019  
+12/3\~8 「[ヒーローのふりをした悪役](https://rivercag.com/hero.html)」River Coffee & Gallery  
+1/25\~2/5 「[わるだくみ会議](https://t.umblr.com/redirect?z=https%3A%2F%2Fwww.sangatsu.net%2Fposts%2F5537039%2F&t=MThjZTA4NjkwYTQ0NmQ5MGU2YTI3MjZhNTQ2YjA2YjZjODVkOGI3NCxUbU4zdWpESg%3D%3D&p=&m=0)」アトリエ三月（大阪）
+
+▷2018  
+2/23\~3/4 「[煙に巻く](https://www.sangatsu.net/posts/3683026/)」アトリエ三月(大阪)  
+7/21\~8/19 「[私は、私の生き方をする。](http://threestar-kyoto.jp/culture-event/%E3%80%90new-gallery%E3%80%91%E3%80%8C%E7%A7%81%E3%81%AF%E3%80%81%E7%A7%81%E3%81%AE%E7%94%9F%E3%81%8D%E6%96%B9%E3%82%92%E3%81%99%E3%82%8B%E3%80%82%E3%80%8D/)」three star kyoto（京都）
+
+▷2016  
+2/23\~28 「[awai](https://t.umblr.com/redirect?z=http%3A%2F%2Fwww.gallerycomplex.com%2Fschedule%2FACT163%2Fkyaraai.html&t=ZWFmYzc3NjNjOTk1YWUwZGFkODgzOGRlNGIxYmEzNzMyMzYwMzNkNixUbU4zdWpESg%3D%3D&p=&m=0)」The Artcomplex Center of Tokyo(東京)
+
+▷2015  
+2/24\~3/1 「[絶対になるもんか！](https://t.umblr.com/redirect?z=http%3A%2F%2Fwww.gallerycomplex.com%2Fschedule%2FACT153%2Fkyaraai.html&t=NDk0NWE3ZTgwOTc5MGY0NGNmM2NiN2ZkMWU5ZTdkYjU1NWVkM2JmMyxUbU4zdWpESg%3D%3D&p=&m=0)」The Artcomplex Center of Tokyo(東京)
+
+**アートフェア - Art Fair**
+
+▷2021  
+6/10\~13 「[JING ART 2021](http://jp.contemporarytokyo.com/Item/Show.asp?m=1&d=2918)」（中国・北京）
 
   
-グループ展 - Group show
+**グループ展 - Group show**
 
 ▷2021  
 2/25\~3/25 「[Contemporary tokyoグループ展](http://jp.contemporarytokyo.com/Item/Show.asp?m=1&d=2914)」Contemporary tokyo/当代东京（東京）  
@@ -92,14 +102,11 @@ mail:kyaraai.work アット gmail.com
 ▷2013  
 6/ 「KONAN ZOHKEI 10th Anniversary Exhibition!!!」art gallery そら(大阪)
 
-▶︎ アートフェア
-
-▷2021  
-6/10\~13 「[JING ART 2021](http://jp.contemporarytokyo.com/Item/Show.asp?m=1&d=2918)」（中国・北京）
-
 ▶︎ 書籍掲載歴
 
-2018\.3.31 発行「ボーカロイド音楽の世界 2017」株式会社 P ヴァイン  
+2021\.1/25発行 「アートコレクターズ No.143」生活の友社 完売作家全データ2021にて掲載（購入→[amazon](https://www.amazon.co.jp/ARTcollectors-%E3%82%A2%E3%83%BC%E3%83%88%E3%82%B3%E3%83%AC%E3%82%AF%E3%82%BF%E3%83%BC%E3%82%BA-2021%E5%B9%B4-2%E6%9C%88%E5%8F%B7-%E7%94%9F%E6%B4%BB%E3%81%AE%E5%8F%8B%E7%A4%BE/dp/B08PJNXT4H/ref=as_li_ss_tl?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&crid=3HX7V0I3J3IAT&dchild=1&keywords=%E3%82%A2%E3%83%BC%E3%83%88%E3%82%B3%E3%83%AC%E3%82%AF%E3%82%BF%E3%83%BC%E3%82%BA+2021%E5%B9%B42%E6%9C%88%E5%8F%B7&qid=1611136832&sprefix=%E3%82%A2%E3%83%BC%E3%83%88%E3%82%B3%E3%83%AC%E3%82%AF%E3%82%BF%E3%83%BC%E3%82%BA,aps,250&sr=8-1&linkCode=sl1&tag=seikatsu02-22&linkId=5739a0733f95f20d35e3526a68ff8087&language=ja_JP)）  
+2020\.9/28発行「ExtrART file.26」書苑新社 裏kawaii展REPORTにて掲載（購入→[amazon](https://www.amazon.co.jp/exec/obidos/ASIN/4883754170/atelierthirho-22)）  
+2018\.3.31発行「ボーカロイド音楽の世界 2017」株式会社 P ヴァイン  
 書籍内挿絵（購入 → [amazon](https://t.umblr.com/redirect?z=https%3A%2F%2Fwww.amazon.co.jp%2F%25E3%2583%259C%25E3%2583%25BC%25E3%2582%25AB%25E3%2583%25AD%25E3%2582%25A4%25E3%2583%2589%25E9%259F%25B3%25E6%25A5%25BD%25E3%2581%25AE%25E4%25B8%2596%25E7%2595%258C-2017-ele-king-books-%25E3%2581%2597%25E3%2581%25BE%2Fdp%2F4907276931&t=MThjZWU1YmZiMDQxNmI5ODBmYTMzNDVlM2M2N2U1MDM5Y2RmMDUxMixUbU4zdWpESg%3D%3D&p=&m=0)）  
 2015\.12 「月刊ギャラリー 2015Vol.12」  
 特集「二十歳の原点 Part1」にて紹介（購入 →[amazon](https://t.umblr.com/redirect?z=https%3A%2F%2Fwww.amazon.co.jp%2F%25E3%2582%25AE%25E3%2583%25A3%25E3%2583%25A9%25E3%2583%25AA%25E3%2583%25BC-2015-vol-12%25E2%2580%2595%25E3%2582%25A2%25E3%2583%25BC%25E3%2583%2588%25E3%2583%2595%25E3%2582%25A3%25E3%2583%25BC%25E3%2583%25AB%25E3%2583%2589%25E3%2582%25A6%25E3%2582%25A9%25E3%2583%25BC%25E3%2582%25AD%25E3%2583%25B3%25E3%2582%25B0%25E3%2582%25AC%25E3%2582%25A4%25E3%2583%2589-%25E7%2589%25B9%25E9%259B%2586-%25E4%25BA%258C%25E5%258D%2581%25E6%25AD%25B3%25E3%2581%25AE%25E5%258E%259F%25E7%2582%25B9%2Fdp%2F486047239X%2Fref%3Dsr_1_fkmr0_2%3F__mk_ja_JP%3D%25E3%2582%25AB%25E3%2582%25BF%25E3%2582%25AB%25E3%2583%258A%26keywords%3D%25E6%259C%2588%25E5%2588%258A%25E3%2582%25AE%25E3%2583%25A3%25E3%2583%25A9%25E3%2583%25AA%25E3%2583%25BC2015%2B%25EF%25BC%2591%25EF%25BC%2592%26qid%3D1572935940%26s%3Dbooks%26sr%3D1-2-fkmr0&t=MDAxZTIzMGYxMjM5NTdhMTkyMmZjODE0YTM4YjRiMGYxYTA2YzA5YixUbU4zdWpESg%3D%3D&p=&m=0)）
