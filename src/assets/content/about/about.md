@@ -52,7 +52,6 @@ mail:kyaraai.work アット gmail.com
 ▷2021  
 6/10\~13 「[JING ART 2021](http://jp.contemporarytokyo.com/Item/Show.asp?m=1&d=2918)」（中国・北京）
 
-  
 **グループ展 - Group show**
 
 ▷2021  
