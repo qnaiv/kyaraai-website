@@ -34,6 +34,13 @@ fields:
   type: tag_list
   default: []
   label: tags
+- name: type
+  type: text
+  config:
+    required: false
+  label: type
+  hidden: true
+  default: artwork
 pages:
 - src/assets/content/artwork/199x-egg.md
 - src/assets/content/artwork/camo.md
