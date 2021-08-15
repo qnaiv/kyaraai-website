@@ -8,14 +8,14 @@ tags: []
 ---
 ![](/src/assets/content/images/2020_-naniwo-muimitotoraerukas.jpg)
 
-Contemporary tokyoグループ展に出品いたします。
+Contemporary Tokyoグループ展に出品いたします。
 
 > **きゃらあい・黒田阿未2人展「青、波間。」**  
-> 会期：2020年7月25日（土）-8月14日（金）  
-> 会場：MASATAKA CONTEMPORARY（〒103-0027 東京都中央区日本橋 3–2–9 三晶ビル B1F）  
-> 時間：火 – 土 12:00-19:00 日曜・月曜・祝日 閉廊
+> 会期：2021年2月25日（木）-3月25日（木）  
+> 会場：Contemporary Tokyo（東京都品川区東品川1-32-8 TERADA ART COMPLEX II ２階）  
+> 時間：12:00-18:00   
+> 参加作家：Agopan / 宏美 / きゃらあい / 月乃カエル
 >
-> 詳細　[http://www.masataka-contemporary.com/ao/](http://www.masataka-contemporary.com/ao/ "http://www.masataka-contemporary.com/ao/")
+> 詳細　[http://jp.contemporarytokyo.com/Item/Show.asp?m=1&d=2914](http://jp.contemporarytokyo.com/Item/Show.asp?m=1&d=2914 "http://jp.contemporarytokyo.com/Item/Show.asp?m=1&d=2914")
 
-  
- **展示風景**
+**展示風景**
