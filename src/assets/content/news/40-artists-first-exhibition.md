@@ -21,7 +21,3 @@ tags:
 > 詳細　[https://www.jitsuzaisei.com/post/40-artists-first-exhibition](https://www.jitsuzaisei.com/post/40-artists-first-exhibition "https://www.jitsuzaisei.com/post/40-artists-first-exhibition")
 
 **展示風景**
-
-![](/src/assets/content/images/2021_zitsuzaisei01.jpg)
-
-![](/src/assets/content/images/2021_zitsuzaisei02.jpg)
