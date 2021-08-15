@@ -102,7 +102,7 @@ mail:kyaraai.work アット gmail.com
 
 ▷2013  
 6/ 「KONAN ZOHKEI 10th Anniversary Exhibition!!!」art gallery そら(大阪)
-
+<br>  <br>
 ▶︎ 書籍掲載歴
 
 2021\.1/25発行 「アートコレクターズ No.143」生活の友社 完売作家全データ2021にて掲載（購入→[amazon](https://www.amazon.co.jp/ARTcollectors-%E3%82%A2%E3%83%BC%E3%83%88%E3%82%B3%E3%83%AC%E3%82%AF%E3%82%BF%E3%83%BC%E3%82%BA-2021%E5%B9%B4-2%E6%9C%88%E5%8F%B7-%E7%94%9F%E6%B4%BB%E3%81%AE%E5%8F%8B%E7%A4%BE/dp/B08PJNXT4H/ref=as_li_ss_tl?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&crid=3HX7V0I3J3IAT&dchild=1&keywords=%E3%82%A2%E3%83%BC%E3%83%88%E3%82%B3%E3%83%AC%E3%82%AF%E3%82%BF%E3%83%BC%E3%82%BA+2021%E5%B9%B42%E6%9C%88%E5%8F%B7&qid=1611136832&sprefix=%E3%82%A2%E3%83%BC%E3%83%88%E3%82%B3%E3%83%AC%E3%82%AF%E3%82%BF%E3%83%BC%E3%82%BA,aps,250&sr=8-1&linkCode=sl1&tag=seikatsu02-22&linkId=5739a0733f95f20d35e3526a68ff8087&language=ja_JP)）  
