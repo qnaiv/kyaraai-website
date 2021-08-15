@@ -3,6 +3,8 @@ date: '2020-12-05T15:00:00.000+00:00'
 update_date: 2020-12-07T04:56:15Z
 
 ---
+![](/src/assets/content/images/プロフ画.jpeg)
+
 ### きゃらあい/kyaraai
 
 ###### Painter/Illustrator/Art producer
