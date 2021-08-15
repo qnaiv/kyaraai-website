@@ -6,6 +6,7 @@ subtitle: 2021年2月25日(木)-3月25日(木)
 tags:
 - 記録
 - 告知
+type: ''
 
 ---
 ![](/src/assets/content/images/2021_equals.jpg)
@@ -21,3 +22,11 @@ Contemporary Tokyoグループ展に出品いたします。
 > 詳細　[http://jp.contemporarytokyo.com/Item/Show.asp?m=1&d=2914](http://jp.contemporarytokyo.com/Item/Show.asp?m=1&d=2914 "http://jp.contemporarytokyo.com/Item/Show.asp?m=1&d=2914")
 
 **展示風景**
+
+![](/src/assets/content/images/2021_ct01.jpg)
+
+![](/src/assets/content/images/2021_ct04.jpg)
+
+![](/src/assets/content/images/2021_ct03.jpg)
+
+![](/src/assets/content/images/2021_ct02.jpg)
