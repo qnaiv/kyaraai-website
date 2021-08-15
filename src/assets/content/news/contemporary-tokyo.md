@@ -3,7 +3,9 @@ date: 2021-02-24T15:00:00Z
 thumbnail: ''
 title: Contemporary Tokyoグループ展
 subtitle: ''
-tags: []
+tags:
+- 告知
+- 記録
 
 ---
 ![](/src/assets/content/images/2020_-naniwo-muimitotoraerukas.jpg)
