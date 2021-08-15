@@ -32,13 +32,16 @@ mail:kyaraai.work アット gmail.com
 
 ▶︎ 展示歴
 
-個展-Solo exhibition  
+個展 - Solo exhibition  
 2019\.12/3\~8 個展「[ヒーローのふりをした悪役](https://rivercag.com/hero.html)」River Coffee & Gallery  
 2019\.1/25\~2/5 個展「[わるだくみ会議](https://t.umblr.com/redirect?z=https%3A%2F%2Fwww.sangatsu.net%2Fposts%2F5537039%2F&t=MThjZTA4NjkwYTQ0NmQ5MGU2YTI3MjZhNTQ2YjA2YjZjODVkOGI3NCxUbU4zdWpESg%3D%3D&p=&m=0)」アトリエ三月（大阪）  
 2018\.2/23\~3/4 個展「[煙に巻く](https://www.sangatsu.net/posts/3683026/)」アトリエ三月(大阪)  
 2018\.7/21\~8/19 個展「[私は、私の生き方をする。](http://threestar-kyoto.jp/culture-event/%E3%80%90new-gallery%E3%80%91%E3%80%8C%E7%A7%81%E3%81%AF%E3%80%81%E7%A7%81%E3%81%AE%E7%94%9F%E3%81%8D%E6%96%B9%E3%82%92%E3%81%99%E3%82%8B%E3%80%82%E3%80%8D/)」three star kyoto（京都）  
 2016\.2/23\~28 個展「[awai](https://t.umblr.com/redirect?z=http%3A%2F%2Fwww.gallerycomplex.com%2Fschedule%2FACT163%2Fkyaraai.html&t=ZWFmYzc3NjNjOTk1YWUwZGFkODgzOGRlNGIxYmEzNzMyMzYwMzNkNixUbU4zdWpESg%3D%3D&p=&m=0)」The Artcomplex Center of Tokyo(東京)  
 2015\.2/24\~3/1 個展「[絶対になるもんか！](https://t.umblr.com/redirect?z=http%3A%2F%2Fwww.gallerycomplex.com%2Fschedule%2FACT153%2Fkyaraai.html&t=NDk0NWE3ZTgwOTc5MGY0NGNmM2NiN2ZkMWU5ZTdkYjU1NWVkM2JmMyxUbU4zdWpESg%3D%3D&p=&m=0)」The Artcomplex Center of Tokyo(東京)
+
+  
+グループ展 - Group show
 
 ▷2021  
 2/25\~3/25 グループ展「[Contemporary tokyoグループ展](http://jp.contemporarytokyo.com/Item/Show.asp?m=1&d=2914)」Contemporary tokyo/当代东京（東京）  
