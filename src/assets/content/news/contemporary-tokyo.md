@@ -2,7 +2,7 @@
 date: 2021-02-24T15:00:00Z
 thumbnail: "/src/assets/content/images/2021_equals.jpg"
 title: Contemporary Tokyoグループ展
-subtitle: ''
+subtitle: 2021年2月25日(木)-3月25日(木)
 tags:
 - 告知
 - 記録
