@@ -24,3 +24,9 @@ Contemporary Tokyoグループ展に出品いたします。
 **展示風景**
 
 ![](/src/assets/content/images/2021_ct05.jpg)
+
+![](/src/assets/content/images/2021_ct02.jpg)
+
+![](/src/assets/content/images/2021_ct04.jpg)
+
+![](/src/assets/content/images/2021_ct03.jpg)
