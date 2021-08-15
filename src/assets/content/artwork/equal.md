@@ -1,10 +1,13 @@
 ---
-tags: []
+tags:
+- PERSONAL WORKS
+- PAINTING
 title: Equal
 date: 2021-02-24T15:00:00Z
-thumbnail: ''
+thumbnail: "/src/assets/content/images/2021_equals.jpg"
 image: ''
-images: []
+images:
+- "/src/assets/content/images/2021_equals.jpg"
 
 ---
 《Equal》
