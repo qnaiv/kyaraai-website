@@ -17,6 +17,13 @@ fields:
 - type: list
   name: tags
   label: tags
+- name: type
+  type: text
+  config:
+    required: false
+  label: type
+  hidden: true
+  default: news
 pages:
 - src/assets/content/news/199x.md
 - src/assets/content/news/2.md
