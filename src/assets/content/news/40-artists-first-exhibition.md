@@ -4,8 +4,8 @@ thumbnail: "/src/assets/content/images/2021_zitsuzaiseidm.jpg"
 title: 40＋ ARTISTS FIRST EXHIBITION
 subtitle: 2021年4月4日(日)-4月26日(月)
 tags:
-- 告知
 - 記録
+type: ''
 
 ---
 ![](/src/assets/content/images/2021_zitsuzaiseidm.jpg)
