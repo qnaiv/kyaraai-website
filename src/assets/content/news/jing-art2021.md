@@ -12,8 +12,6 @@ tags:
 
 ![](/src/assets/content/images/2021_jingart05.png)
 
-新しく大阪にオープンするクリエイティブスペース「JITSUZAISEI」のオープニング展覧会「40＋ ARTISTS FIRST EXHIBITION」に出品いたします。
-
 中国・北京のアートフェアJING ART 2021に、Contemporary Tokyoブースにて出品いたします。
 
 > **JING ART 2021**  
