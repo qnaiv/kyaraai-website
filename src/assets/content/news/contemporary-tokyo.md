@@ -5,7 +5,6 @@ title: Contemporary Tokyoグループ展
 subtitle: 2021年2月25日(木)-3月25日(木)
 tags:
 - 記録
-- 告知
 type: ''
 
 ---
