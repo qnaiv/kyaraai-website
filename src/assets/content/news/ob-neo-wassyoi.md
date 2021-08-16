@@ -1,11 +1,11 @@
 ---
-date: 2020-06-25T15:00:00Z
+date: 2020-06-25T15:00:00.000+00:00
 thumbnail: "/src/assets/content/images/2020_neow01.jpg"
 title: obキュレーション展「neo wassyoi」
 subtitle: 2020年6月26日(金)～2020年7月17日(金)
 tags:
 - 記録
-- 告知
+type: ''
 
 ---
 ![](/src/assets/content/images/2020_neow01.jpg)

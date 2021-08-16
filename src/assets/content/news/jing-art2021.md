@@ -5,7 +5,6 @@ thumbnail: "/src/assets/content/images/2021_jingart01.jpg"
 title: JING ART2021
 subtitle: 2021年6月10日(木)-6月13日(日)
 tags:
-- 告知
 - 記録
 
 ---
