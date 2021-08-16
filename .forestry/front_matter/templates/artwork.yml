@@ -43,6 +43,7 @@ fields:
   default: artwork
 pages:
 - src/assets/content/artwork/199x-egg.md
+- src/assets/content/artwork/2020.md
 - src/assets/content/artwork/camo.md
 - src/assets/content/artwork/equal.md
 - src/assets/content/artwork/m.md
