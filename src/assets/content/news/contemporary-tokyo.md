@@ -13,7 +13,7 @@ type: ''
 
 Contemporary Tokyoグループ展に出品いたします。
 
-> **きゃらあい・黒田阿未2人展「青、波間。」**  
+> **Contemporary Tokyo グループ展**  
 > 会期：2021年2月25日（木）-3月25日（木）  
 > 会場：Contemporary Tokyo（東京都品川区東品川1-32-8 TERADA ART COMPLEX II ２階）  
 > 時間：12:00-18:00  
