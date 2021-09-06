@@ -11,17 +11,10 @@ update_date: 2020-12-07T04:56:15Z
 
 ##### 
 
-1996年生まれ。大阪府出身。アクリル絵の具などを用いた絵画の制作とデジタル作画によるイラストレーションを制作している。  
-2009 年頃からボーカロイド楽曲にデジタルイラストを提供し、インターネット上で作品の発表を始める。2014 年に東京開催された、同年代によるグループ展の参加をきっかけに、ペインティング作品の展示活動を開始。  
-現在は、国内外での展示活動やライブペイント等のイベントを行うほか、イラストレーターとしても活動。  
-また、過去には大阪でアートプロジェクトのディレクターを行うなど、形に捉われない表現で活動している。
+1996年生まれ。大阪府出身。  
+2009年頃からボーカロイド楽曲へデジタルイラストを提供し、インターネット上で作品の発表を始める。2014年より、ペインティング作品の展示活動を開始。現在は、国内外での展示活動やライブペイント等のイベントを行うほか、イラストレーターとしても活動。
 
-◎
-
-Art Concept
-
-強い眼差しを持った瞳の大きな少女を描く。  
-SNS上で顕著に現れる、人のもつ汚れや矛盾、ゆらぎについて興味を持ち、自身も常に他人事ではない事を忘れないため表現活動をしている。  
+「ゆらぎの中にいる自覚」をテーマに、強い眼差しを持った瞳の大きな少女を描く。   
 近年は主に、幼少期から印象的だった地元の高速道路や煙、汚れた川をモチーフとし、輝きを含みながら表現することで、汚れについて多方面から捉えることを試みる。
 
 ◎
@@ -90,7 +83,8 @@ mail:kyaraai.work アット gmail.com
 4/13\~16 「[シナプスの、Q](https://twitter.com/sinapusu_musubi)」ROJI ギャラリー 1616(大阪)
 
 ▷2016  
-12/16\~25 「合同年末展」アトリエ三月、アトリエ空白(大阪)11.17\~20 グループ展「[シナプスの掬び](https://twitter.com/sinapusu_musubi)」ギャラリー 1616(大阪)  
+12/16\~25 「合同年末展」アトリエ三月、アトリエ空白(大阪)  
+11\.17\~20 「[シナプスの掬び](https://twitter.com/sinapusu_musubi)」ギャラリー 1616(大阪)  
 11/1\~6 KAWAII ART PROJECT 企画「[FROM KAWAII ART](https://t.umblr.com/redirect?z=http%3A%2F%2Fkawaiiartproject.main.jp%2Fnews%2F%25e9%2596%258b%25e5%2582%25ac%25e4%25b8%25ad%25ef%25bc%2581%25e3%2580%258cfrom-kawaii-art%25e3%2580%258d%25e5%25b1%2595&t=MGJjNDZmNGVmNDk4ZGJkMmYwOWM1ZGU5ZDVkYmZiZmJjMmE4OWQ5NixUbU4zdWpESg%3D%3D&p=&m=0)」マジェルカギャラリー(東京)  
 7/2\~13 「[A4 の世界 Ⅱ](https://t.umblr.com/redirect?z=http%3A%2F%2Fwww.kcc.zaq.ne.jp%2Fdfyji500%2Fsunaba%2Fupcoming%2F20160702_fruits%2Ffruits.html&t=MjdlZGE5NmY3OGNhMDY4MGIyNjNiNDgzZTM3ZmQyMjRmOWM5NjVkYyxUbU4zdWpESg%3D%3D&p=&m=0)」SUNABA GALLERY(大阪)  
 6/24\~7/3 「[199X⁵](https://t.umblr.com/redirect?z=http%3A%2F%2Fwww.gallerycomplex.com%2Fschedule%2FACT165%2F9x5.html&t=NjAyMzc4NzgwOTM3YWQyOTNkNTJiZTAyY2JlZDgyNGRlNzE1OTkwZSxUbU4zdWpESg%3D%3D&p=&m=0)」The Artcomplex Center of Tokyo(東京)
