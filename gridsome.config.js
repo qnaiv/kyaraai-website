@@ -6,7 +6,6 @@
 
 module.exports = {
   siteName: `kyaraai`,
-  pathPrefix: `/kyaraai-website`,
   titleTemplate: `kyaraai`,
   plugins: [
     {
