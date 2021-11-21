@@ -28,6 +28,7 @@
       </div>
       <div class="field is-grouped">
         <div class="control">
+          <div data-netlify-recaptcha="true"></div>
           <button type="submit" class="button is-link has-text-white">送信</button>
         </div>
       </div>
