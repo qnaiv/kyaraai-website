@@ -34,12 +34,27 @@ fields:
   type: tag_list
   default: []
   label: tags
+- name: type
+  type: text
+  config:
+    required: false
+  label: type
+  hidden: true
+  default: artwork
 pages:
 - src/assets/content/artwork/199x-egg.md
+- src/assets/content/artwork/2020.md
+- src/assets/content/artwork/27.md
 - src/assets/content/artwork/camo.md
+- src/assets/content/artwork/drawing.md
+- src/assets/content/artwork/equal.md
+- src/assets/content/artwork/flag.md
 - src/assets/content/artwork/m.md
+- src/assets/content/artwork/twitter.md
+- src/assets/content/artwork/what-kind-of-rain.md
 - src/assets/content/artwork/あしたの予測.md
 - src/assets/content/artwork/いつでも一緒の景色.md
+- src/assets/content/artwork/かかげる手垢.md
 - src/assets/content/artwork/からだをつくるものすべて.md
 - src/assets/content/artwork/かわいいあのこ.md
 - src/assets/content/artwork/きのうを想う.md
@@ -47,30 +62,43 @@ pages:
 - src/assets/content/artwork/くさのうみ-曲がった柵.md
 - src/assets/content/artwork/ここにも居ればいいな.md
 - src/assets/content/artwork/ここの道.md
+- src/assets/content/artwork/この輝きが良いのかは判断できない.md
 - src/assets/content/artwork/こんなに目があっても.md
 - src/assets/content/artwork/さっきまで袋の中-空気や体に触れる.md
+- src/assets/content/artwork/たいせつな手垢.md
 - src/assets/content/artwork/たたかっています.md
 - src/assets/content/artwork/ちょっと宇宙まで.md
+- src/assets/content/artwork/なみなみ.md
+- src/assets/content/artwork/まるみえ.md
 - src/assets/content/artwork/めばえガールズ.md
 - src/assets/content/artwork/やあ.md
+- src/assets/content/artwork/わたしがやりました.md
 - src/assets/content/artwork/わたしの手には収まらない.md
 - src/assets/content/artwork/アルミホイルにつつまれて.md
 - src/assets/content/artwork/シーグラス.md
 - src/assets/content/artwork/テープエコー.md
 - src/assets/content/artwork/ベタつきは誰のせい.md
 - src/assets/content/artwork/リーダーってこういうもの.md
+- src/assets/content/artwork/世界を考える時間.md
+- src/assets/content/artwork/亜空間.md
 - src/assets/content/artwork/人間目線で捉えればそーだし.md
 - src/assets/content/artwork/何を無意味と考えるか.md
 - src/assets/content/artwork/全容.md
+- src/assets/content/artwork/割れちゃった.md
 - src/assets/content/artwork/同化して生きる.md
 - src/assets/content/artwork/愛を求める彼女たち.md
+- src/assets/content/artwork/戻りたい場所はすぐそこ.md
 - src/assets/content/artwork/残り.md
 - src/assets/content/artwork/流しセーラー服.md
 - src/assets/content/artwork/異常気象.md
 - src/assets/content/artwork/発見集.md
 - src/assets/content/artwork/知り得ぬ角度.md
+- src/assets/content/artwork/私の中を巡るもの.md
+- src/assets/content/artwork/私の中を巡るものたち.md
+- src/assets/content/artwork/秘密基地で遊びたい.md
 - src/assets/content/artwork/簡単に言わないこと.md
 - src/assets/content/artwork/純な.md
+- src/assets/content/artwork/紲星あかりケーキ.md
 - src/assets/content/artwork/誰も踊らなくなった.md
 - src/assets/content/artwork/透明な足元.md
 - src/assets/content/artwork/配列テスト.md

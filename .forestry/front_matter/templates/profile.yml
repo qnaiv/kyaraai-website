@@ -11,3 +11,10 @@ fields:
     date_format: YYYY-MM-DD
     time_format: 
     display_utc: false
+- name: type
+  type: text
+  config:
+    required: false
+  hidden: true
+  label: type
+  default: about

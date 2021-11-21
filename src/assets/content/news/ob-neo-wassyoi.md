@@ -1,11 +1,11 @@
 ---
-date: 2020-06-25T15:00:00Z
+date: 2020-06-25T15:00:00.000+00:00
 thumbnail: "/src/assets/content/images/2020_neow01.jpg"
 title: obキュレーション展「neo wassyoi」
-subtitle: 2020年6月26日(金)～2020年7月17日(金)
+subtitle: 2020年6月26日(金)-2020年7月17日(金)
 tags:
 - 記録
-- 告知
+type: ''
 
 ---
 ![](/src/assets/content/images/2020_neow01.jpg)
@@ -22,7 +22,7 @@ ob Youtube▶ [https://www.youtube.com/user/ob0w0/videos](https://www.youtube.co
 
 > **obキュレーション展「neo wassyoi」**  
 > 会期：2020年6月26日(金)～2020年7月17日(金)  
-> 会場：Hidari Zingaro（〒164-0001 東京都中野区中野5-52-15中野ブロードウェイ 3F）  
+> 会場：Hidari Zingaro（〒164-0001 東京都中野区中野5-52-15中野ブロードウェイ 3F）  
 > 時間：12:00 - 19:00  
 > 参加作家：あきつかおる / 冨岡想 / 庄司理子 / さめほし / ミヤタナナ / 齊藤拓未 / てつ / 光 / 安藤万実 / きゃらあい
 >
