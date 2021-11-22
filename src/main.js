@@ -5,6 +5,7 @@ import DefaultLayout from '~/layouts/Default.vue'
 import './assets/style/main.scss'
 
 export default function (Vue, { router, head, isClient }) {
+  head.htmlAttrs = { lang: 'ja' }
   if (isClient) {
     // eslint-disable-next-line @typescript-eslint/no-var-requires
     const VueMasonryPlugin = require('vue-masonry').VueMasonryPlugin
