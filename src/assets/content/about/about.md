@@ -4,7 +4,6 @@ update_date: 2020-12-07T04:56:15Z
 ---
 
 ![](/src/assets/content/images/プロフ画.jpeg)
-<img src="/src/assets/content/images/プロフ画.jpeg" width="300">
 
 ### きゃらあい/kyaraai
 
