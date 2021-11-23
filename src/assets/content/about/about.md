@@ -1,20 +1,21 @@
 ---
 date: '2020-12-05T15:00:00.000+00:00'
 update_date: 2020-12-07T04:56:15Z
-
 ---
+
 ![](/src/assets/content/images/プロフ画.jpeg)
+<img src="/src/assets/content/images/プロフ画.jpeg" width="300">
 
 ### きゃらあい/kyaraai
 
 ###### Painter/Illustrator/Art producer
 
-##### 
+#####
 
-1996年生まれ。大阪府出身。  
-2009年頃からボーカロイド楽曲へデジタルイラストを提供し、インターネット上で作品の発表を始める。2014年より、ペインティング作品の展示活動を開始。現在は、国内外での展示活動やライブペイント等のイベントを行うほか、イラストレーターとしても活動。
+1996 年生まれ。大阪府出身。  
+2009 年頃からボーカロイド楽曲へデジタルイラストを提供し、インターネット上で作品の発表を始める。2014 年より、ペインティング作品の展示活動を開始。現在は、国内外での展示活動やライブペイント等のイベントを行うほか、イラストレーターとしても活動。
 
-「ゆらぎの中にいる自覚」をテーマに、強い眼差しを持った瞳の大きな少女を描く。   
+「ゆらぎの中にいる自覚」をテーマに、強い眼差しを持った瞳の大きな少女を描く。  
 近年は主に、幼少期から印象的だった地元の高速道路や煙、汚れた川をモチーフとし、輝きを含みながら表現することで、汚れについて多方面から捉えることを試みる。
 
 ◎
@@ -51,16 +52,16 @@ mail:kyaraai.work アット gmail.com
 **グループ展 - Group show**
 
 ▷2021  
-2/25\~3/25 「[Contemporary tokyoグループ展](http://jp.contemporarytokyo.com/Item/Show.asp?m=1&d=2914)」Contemporary tokyo/当代东京（東京）  
-4/4\~26 「[40＋ ARTISTS FIRST EXHIBITION](https://www.jitsuzaisei.com/post/40-artists-first-exhibition)」JITSUZAISEI（大阪）
+2/25\~3/25 「[Contemporary tokyo グループ展](http://jp.contemporarytokyo.com/Item/Show.asp?m=1&d=2914)」Contemporary tokyo/当代东京（東京）  
+4/4\~26 「[40 ＋ ARTISTS FIRST EXHIBITION](https://www.jitsuzaisei.com/post/40-artists-first-exhibition)」JITSUZAISEI（大阪）
 
 ▷2020  
-5/9\~20 「[裏kawaii](https://sunabagallery.com/past/2020/0509_kawaii.html)」SUNABAギャラリー（大阪）  
-6/26\~7/17 obキュレーション展「[neo wassyoi](https://zingarokk.com/gallery/hidarizingaro/exhibition/6463/)」Hidari Zingaro（東京）  
-7/25\~8/14 2人展「[青、波間。](http://www.masataka-contemporary.com/ao/)」MASATAKA CONTEMPORARY（東京）  
+5/9\~20 「[裏 kawaii](https://sunabagallery.com/past/2020/0509_kawaii.html)」SUNABA ギャラリー（大阪）  
+6/26\~7/17 ob キュレーション展「[neo wassyoi](https://zingarokk.com/gallery/hidarizingaro/exhibition/6463/)」Hidari Zingaro（東京）  
+7/25\~8/14 2 人展「[青、波間。](http://www.masataka-contemporary.com/ao/)」MASATAKA CONTEMPORARY（東京）  
 9/18\~10/4 プロジェクト型展示「[whereabouts:sep 九月の居場所](https://www.sangatsu.net/posts/9700121?categoryIds=838087)」アトリエ三月（大阪）  
-11/21\~12/6 「[199X ⁹]( "http://shuuue.net/exhibitions/10.html")」shuuue（東京）  
-12/18\~28 「[三月企画年末展2020](https://www.sangatsu.net/posts/9700781?categoryIds=838087)」アトリエ三月（大阪）
+11/21\~12/6 「[199X ⁹]("http://shuuue.net/exhibitions/10.html")」shuuue（東京）  
+12/18\~28 「[三月企画年末展 2020](https://www.sangatsu.net/posts/9700781?categoryIds=838087)」アトリエ三月（大阪）
 
 ▷2019  
 1/11\~26 「[第 1 回大阪アンデパンダン](https://osaka-independants.studio.design/)」gekilin.（大阪）  
@@ -99,12 +100,12 @@ mail:kyaraai.work アット gmail.com
 
 ▷2013  
 6/ 「KONAN ZOHKEI 10th Anniversary Exhibition!!!」art gallery そら(大阪)
-<br>  <br>
+<br> <br>
 ▶︎ 書籍掲載歴
 
-2021\.1/25発行 「アートコレクターズ No.143」生活の友社 完売作家全データ2021にて掲載（購入→[amazon](https://www.amazon.co.jp/ARTcollectors-%E3%82%A2%E3%83%BC%E3%83%88%E3%82%B3%E3%83%AC%E3%82%AF%E3%82%BF%E3%83%BC%E3%82%BA-2021%E5%B9%B4-2%E6%9C%88%E5%8F%B7-%E7%94%9F%E6%B4%BB%E3%81%AE%E5%8F%8B%E7%A4%BE/dp/B08PJNXT4H/ref=as_li_ss_tl?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&crid=3HX7V0I3J3IAT&dchild=1&keywords=%E3%82%A2%E3%83%BC%E3%83%88%E3%82%B3%E3%83%AC%E3%82%AF%E3%82%BF%E3%83%BC%E3%82%BA+2021%E5%B9%B42%E6%9C%88%E5%8F%B7&qid=1611136832&sprefix=%E3%82%A2%E3%83%BC%E3%83%88%E3%82%B3%E3%83%AC%E3%82%AF%E3%82%BF%E3%83%BC%E3%82%BA,aps,250&sr=8-1&linkCode=sl1&tag=seikatsu02-22&linkId=5739a0733f95f20d35e3526a68ff8087&language=ja_JP)）  
-2020\.9/28発行「ExtrART file.26」書苑新社 裏kawaii展REPORTにて掲載（購入→[amazon](https://www.amazon.co.jp/exec/obidos/ASIN/4883754170/atelierthirho-22)）  
-2018\.3.31発行「ボーカロイド音楽の世界 2017」株式会社 P ヴァイン  
+2021\.1/25 発行 「アートコレクターズ No.143」生活の友社 完売作家全データ 2021 にて掲載（購入 →[amazon](https://www.amazon.co.jp/ARTcollectors-%E3%82%A2%E3%83%BC%E3%83%88%E3%82%B3%E3%83%AC%E3%82%AF%E3%82%BF%E3%83%BC%E3%82%BA-2021%E5%B9%B4-2%E6%9C%88%E5%8F%B7-%E7%94%9F%E6%B4%BB%E3%81%AE%E5%8F%8B%E7%A4%BE/dp/B08PJNXT4H/ref=as_li_ss_tl?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&crid=3HX7V0I3J3IAT&dchild=1&keywords=%E3%82%A2%E3%83%BC%E3%83%88%E3%82%B3%E3%83%AC%E3%82%AF%E3%82%BF%E3%83%BC%E3%82%BA+2021%E5%B9%B42%E6%9C%88%E5%8F%B7&qid=1611136832&sprefix=%E3%82%A2%E3%83%BC%E3%83%88%E3%82%B3%E3%83%AC%E3%82%AF%E3%82%BF%E3%83%BC%E3%82%BA,aps,250&sr=8-1&linkCode=sl1&tag=seikatsu02-22&linkId=5739a0733f95f20d35e3526a68ff8087&language=ja_JP)）  
+2020\.9/28 発行「ExtrART file.26」書苑新社 裏 kawaii 展 REPORT にて掲載（購入 →[amazon](https://www.amazon.co.jp/exec/obidos/ASIN/4883754170/atelierthirho-22)）  
+2018\.3.31 発行「ボーカロイド音楽の世界 2017」株式会社 P ヴァイン  
 書籍内挿絵（購入 → [amazon](https://t.umblr.com/redirect?z=https%3A%2F%2Fwww.amazon.co.jp%2F%25E3%2583%259C%25E3%2583%25BC%25E3%2582%25AB%25E3%2583%25AD%25E3%2582%25A4%25E3%2583%2589%25E9%259F%25B3%25E6%25A5%25BD%25E3%2581%25AE%25E4%25B8%2596%25E7%2595%258C-2017-ele-king-books-%25E3%2581%2597%25E3%2581%25BE%2Fdp%2F4907276931&t=MThjZWU1YmZiMDQxNmI5ODBmYTMzNDVlM2M2N2U1MDM5Y2RmMDUxMixUbU4zdWpESg%3D%3D&p=&m=0)）  
 2015\.12 「月刊ギャラリー 2015Vol.12」  
 特集「二十歳の原点 Part1」にて紹介（購入 →[amazon](https://t.umblr.com/redirect?z=https%3A%2F%2Fwww.amazon.co.jp%2F%25E3%2582%25AE%25E3%2583%25A3%25E3%2583%25A9%25E3%2583%25AA%25E3%2583%25BC-2015-vol-12%25E2%2580%2595%25E3%2582%25A2%25E3%2583%25BC%25E3%2583%2588%25E3%2583%2595%25E3%2582%25A3%25E3%2583%25BC%25E3%2583%25AB%25E3%2583%2589%25E3%2582%25A6%25E3%2582%25A9%25E3%2583%25BC%25E3%2582%25AD%25E3%2583%25B3%25E3%2582%25B0%25E3%2582%25AC%25E3%2582%25A4%25E3%2583%2589-%25E7%2589%25B9%25E9%259B%2586-%25E4%25BA%258C%25E5%258D%2581%25E6%25AD%25B3%25E3%2581%25AE%25E5%258E%259F%25E7%2582%25B9%2Fdp%2F486047239X%2Fref%3Dsr_1_fkmr0_2%3F__mk_ja_JP%3D%25E3%2582%25AB%25E3%2582%25BF%25E3%2582%25AB%25E3%2583%258A%26keywords%3D%25E6%259C%2588%25E5%2588%258A%25E3%2582%25AE%25E3%2583%25A3%25E3%2583%25A9%25E3%2583%25AA%25E3%2583%25BC2015%2B%25EF%25BC%2591%25EF%25BC%2592%26qid%3D1572935940%26s%3Dbooks%26sr%3D1-2-fkmr0&t=MDAxZTIzMGYxMjM5NTdhMTkyMmZjODE0YTM4YjRiMGYxYTA2YzA5YixUbU4zdWpESg%3D%3D&p=&m=0)）
